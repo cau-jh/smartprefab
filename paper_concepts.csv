@@ -1,0 +1,1672 @@
+﻿work_id,concept_id,concept_name,score
+https://openalex.org/W2947753446,https://openalex.org/C100776233,Bridge (graph theory),0.7705873250961304
+https://openalex.org/W2947753446,https://openalex.org/C2777188360,Bridge maintenance,0.6320284605026245
+https://openalex.org/W2947753446,https://openalex.org/C127413603,Engineering,0.5479481220245361
+https://openalex.org/W2947753446,https://openalex.org/C201305675,Stakeholder,0.52875155210495
+https://openalex.org/W2947753446,https://openalex.org/C98045186,Process (computing),0.5165018439292908
+https://openalex.org/W2947753446,https://openalex.org/C24090081,Preventive maintenance,0.45063018798828125
+https://openalex.org/W2947753446,https://openalex.org/C70452415,Predictive maintenance,0.4435630142688751
+https://openalex.org/W2947753446,https://openalex.org/C107053488,Construction engineering,0.402959406375885
+https://openalex.org/W2947753446,https://openalex.org/C41008148,Computer science,0.35803452134132385
+https://openalex.org/W2947753446,https://openalex.org/C200601418,Reliability engineering,0.3274076581001282
+https://openalex.org/W2017224783,https://openalex.org/C125450124,Precast concrete,0.8701351881027222
+https://openalex.org/W2017224783,https://openalex.org/C66938386,Structural engineering,0.7626010775566101
+https://openalex.org/W2017224783,https://openalex.org/C96035792,Shear (geology),0.6412898302078247
+https://openalex.org/W2017224783,https://openalex.org/C2778966251,Deck,0.5961626768112183
+https://openalex.org/W2017224783,https://openalex.org/C2779372316,Stiffness,0.5340762138366699
+https://openalex.org/W2017224783,https://openalex.org/C195268267,Slip (aerodynamics),0.4955650568008423
+https://openalex.org/W2017224783,https://openalex.org/C113740112,Slab,0.48191288113594055
+https://openalex.org/W2017224783,https://openalex.org/C152279782,Shearing (physics),0.4776833653450012
+https://openalex.org/W2017224783,https://openalex.org/C127413603,Engineering,0.47402480244636536
+https://openalex.org/W2017224783,https://openalex.org/C187320778,Geotechnical engineering,0.4317716062068939
+https://openalex.org/W2321270117,https://openalex.org/C33574316,Passivation,0.9352666139602661
+https://openalex.org/W2321270117,https://openalex.org/C192562407,Materials science,0.7681103944778442
+https://openalex.org/W2321270117,https://openalex.org/C69544855,Atomic layer deposition,0.7015988826751709
+https://openalex.org/W2321270117,https://openalex.org/C126201875,Nanorod,0.6528663039207458
+https://openalex.org/W2321270117,https://openalex.org/C155011858,Perovskite (structure),0.6020935773849487
+https://openalex.org/W2321270117,https://openalex.org/C206991015,Energy conversion efficiency,0.5340126156806946
+https://openalex.org/W2321270117,https://openalex.org/C2779227376,Layer (electronics),0.4737960696220398
+https://openalex.org/W2321270117,https://openalex.org/C2780089039,Perovskite solar cell,0.46830451488494873
+https://openalex.org/W2321270117,https://openalex.org/C42360764,Chemical engineering,0.4548623263835907
+https://openalex.org/W2321270117,https://openalex.org/C57631264,Open-circuit voltage,0.4463196098804474
+https://openalex.org/W2073605666,https://openalex.org/C66938386,Structural engineering,0.8123814463615417
+https://openalex.org/W2073605666,https://openalex.org/C181781793,Eurocode,0.7774368524551392
+https://openalex.org/W2073605666,https://openalex.org/C96035792,Shear (geology),0.69085693359375
+https://openalex.org/W2073605666,https://openalex.org/C104779481,Composite number,0.6286122798919678
+https://openalex.org/W2073605666,https://openalex.org/C2776445639,Composite construction,0.49933767318725586
+https://openalex.org/W2073605666,https://openalex.org/C192562407,Materials science,0.44007444381713867
+https://openalex.org/W2073605666,https://openalex.org/C127413603,Engineering,0.38448530435562134
+https://openalex.org/W2073605666,https://openalex.org/C159985019,Composite material,0.354106068611145
+https://openalex.org/W2073605666,https://openalex.org/C187320778,Geotechnical engineering,0.3393799662590027
+https://openalex.org/W2193619089,https://openalex.org/C192562407,Materials science,0.846655011177063
+https://openalex.org/W2193619089,https://openalex.org/C155011858,Perovskite (structure),0.7535706162452698
+https://openalex.org/W2193619089,https://openalex.org/C2777822432,In situ,0.7031616568565369
+https://openalex.org/W2193619089,https://openalex.org/C110879396,Plasmon,0.6838880777359009
+https://openalex.org/W2193619089,https://openalex.org/C155672457,Nanoparticle,0.6808725595474243
+https://openalex.org/W2193619089,https://openalex.org/C91129048,Nanofiber,0.635744035243988
+https://openalex.org/W2193619089,https://openalex.org/C171250308,Nanotechnology,0.5924142599105835
+https://openalex.org/W2193619089,https://openalex.org/C104819515,Colloidal gold,0.508621096611023
+https://openalex.org/W2193619089,https://openalex.org/C41291067,Photovoltaic system,0.44393303990364075
+https://openalex.org/W2193619089,https://openalex.org/C206991015,Energy conversion efficiency,0.4435919523239136
+https://openalex.org/W845068382,https://openalex.org/C2780787725,Stannate,0.9342612028121948
+https://openalex.org/W845068382,https://openalex.org/C171560689,Halide,0.7035725116729736
+https://openalex.org/W845068382,https://openalex.org/C155011858,Perovskite (structure),0.6133059859275818
+https://openalex.org/W845068382,https://openalex.org/C535196362,Zinc,0.6048826575279236
+https://openalex.org/W845068382,https://openalex.org/C91129048,Nanofiber,0.5987837910652161
+https://openalex.org/W845068382,https://openalex.org/C192562407,Materials science,0.5778387784957886
+https://openalex.org/W845068382,https://openalex.org/C89429830,Scaffold,0.45145073533058167
+https://openalex.org/W845068382,https://openalex.org/C6648577,Porosity,0.41883131861686707
+https://openalex.org/W845068382,https://openalex.org/C42360764,Chemical engineering,0.35368192195892334
+https://openalex.org/W845068382,https://openalex.org/C185592680,Chemistry,0.287541925907135
+https://openalex.org/W1598298067,https://openalex.org/C155011858,Perovskite (structure),0.8159903287887573
+https://openalex.org/W1598298067,https://openalex.org/C192562407,Materials science,0.7937778234481812
+https://openalex.org/W1598298067,https://openalex.org/C124657808,Quantum dot,0.6852342486381531
+https://openalex.org/W1598298067,https://openalex.org/C57631264,Open-circuit voltage,0.6029057502746582
+https://openalex.org/W1598298067,https://openalex.org/C206991015,Energy conversion efficiency,0.5947586297988892
+https://openalex.org/W1598298067,https://openalex.org/C177731217,Mesoscopic physics,0.5604143142700195
+https://openalex.org/W1598298067,https://openalex.org/C2780824857,Solar cell,0.5323600769042969
+https://openalex.org/W1598298067,https://openalex.org/C2779520095,Quasi-solid,0.5010778903961182
+https://openalex.org/W1598298067,https://openalex.org/C42360764,Chemical engineering,0.47674405574798584
+https://openalex.org/W1598298067,https://openalex.org/C171250308,Nanotechnology,0.4765346944332123
+https://openalex.org/W1971637512,https://openalex.org/C126201875,Nanorod,0.8898042440414429
+https://openalex.org/W1971637512,https://openalex.org/C48421929,Dye-sensitized solar cell,0.7579606175422668
+https://openalex.org/W1971637512,https://openalex.org/C186187911,Nanostructure,0.7083134651184082
+https://openalex.org/W1971637512,https://openalex.org/C171250308,Nanotechnology,0.6714539527893066
+https://openalex.org/W1971637512,https://openalex.org/C192562407,Materials science,0.6092179417610168
+https://openalex.org/W1971637512,https://openalex.org/C156622251,Hydrothermal circulation,0.5608474612236023
+https://openalex.org/W1971637512,https://openalex.org/C2777593239,Titanium dioxide,0.5393573641777039
+https://openalex.org/W1971637512,https://openalex.org/C170751736,Tetragonal crystal system,0.5062102675437927
+https://openalex.org/W1971637512,https://openalex.org/C155672457,Nanoparticle,0.49848389625549316
+https://openalex.org/W1971637512,https://openalex.org/C58226133,Pulmonary surfactant,0.46166542172431946
+https://openalex.org/W2939660190,https://openalex.org/C192562407,Materials science,0.8580413460731506
+https://openalex.org/W2939660190,https://openalex.org/C20625102,Corrosion,0.7449666261672974
+https://openalex.org/W2939660190,https://openalex.org/C2780886216,Prestressed concrete,0.6703659296035767
+https://openalex.org/W2939660190,https://openalex.org/C66938386,Structural engineering,0.6362012624740601
+https://openalex.org/W2939660190,https://openalex.org/C112950240,Ultimate tensile strength,0.6234252452850342
+https://openalex.org/W2939660190,https://openalex.org/C2776512210,Ductility (Earth science),0.5849828124046326
+https://openalex.org/W2939660190,https://openalex.org/C135628077,Finite element method,0.5094638466835022
+https://openalex.org/W2939660190,https://openalex.org/C159985019,Composite material,0.4479932188987732
+https://openalex.org/W2939660190,https://openalex.org/C191897082,Metallurgy,0.3231925368309021
+https://openalex.org/W2939660190,https://openalex.org/C149912024,Creep,0.15395665168762207
+https://openalex.org/W3195577699,https://openalex.org/C66862320,Building information modeling,0.8334232568740845
+https://openalex.org/W3195577699,https://openalex.org/C100776233,Bridge (graph theory),0.822179913520813
+https://openalex.org/W3195577699,https://openalex.org/C168820333,Visual inspection,0.7354590892791748
+https://openalex.org/W3195577699,https://openalex.org/C36464697,Visualization,0.6245507001876831
+https://openalex.org/W3195577699,https://openalex.org/C10272871,Software inspection,0.593011200428009
+https://openalex.org/W3195577699,https://openalex.org/C98045186,Process (computing),0.5905027389526367
+https://openalex.org/W3195577699,https://openalex.org/C41008148,Computer science,0.5493079423904419
+https://openalex.org/W3195577699,https://openalex.org/C153715457,Augmented reality,0.5452963709831238
+https://openalex.org/W3195577699,https://openalex.org/C2777188360,Bridge maintenance,0.42716896533966064
+https://openalex.org/W3195577699,https://openalex.org/C26517878,Key (lock),0.4143350124359131
+https://openalex.org/W2559919672,https://openalex.org/C125450124,Precast concrete,0.9353053569793701
+https://openalex.org/W2559919672,https://openalex.org/C66938386,Structural engineering,0.8055770397186279
+https://openalex.org/W2559919672,https://openalex.org/C157892014,Pier,0.758922278881073
+https://openalex.org/W2559919672,https://openalex.org/C2778510302,Plastic hinge,0.6141147017478943
+https://openalex.org/W2559919672,https://openalex.org/C58396970,Cracking,0.6043017506599426
+https://openalex.org/W2559919672,https://openalex.org/C178405089,Flexural strength,0.5624236464500427
+https://openalex.org/W2559919672,https://openalex.org/C127413603,Engineering,0.5077891945838928
+https://openalex.org/W2559919672,https://openalex.org/C2780886216,Prestressed concrete,0.49552857875823975
+https://openalex.org/W2559919672,https://openalex.org/C107551265,Displacement (psychology),0.4893200099468231
+https://openalex.org/W2559919672,https://openalex.org/C43369102,Fracture (geology),0.47351980209350586
+https://openalex.org/W4390377736,https://openalex.org/C100776233,Bridge (graph theory),0.6829201579093933
+https://openalex.org/W4390377736,https://openalex.org/C52146309,Schema (genetic algorithms),0.6031790375709534
+https://openalex.org/W4390377736,https://openalex.org/C2778814095,Maintenance actions,0.5326774716377258
+https://openalex.org/W4390377736,https://openalex.org/C123657996,Architecture,0.49686911702156067
+https://openalex.org/W4390377736,https://openalex.org/C26517878,Key (lock),0.4858695864677429
+https://openalex.org/W4390377736,https://openalex.org/C2777188360,Bridge maintenance,0.48428887128829956
+https://openalex.org/W4390377736,https://openalex.org/C41008148,Computer science,0.4797871708869934
+https://openalex.org/W4390377736,https://openalex.org/C70452415,Predictive maintenance,0.4532445967197418
+https://openalex.org/W4390377736,https://openalex.org/C127413603,Engineering,0.4349607229232788
+https://openalex.org/W4390377736,https://openalex.org/C200601418,Reliability engineering,0.43277984857559204
+https://openalex.org/W4391804846,https://openalex.org/C100776233,Bridge (graph theory),0.6924389004707336
+https://openalex.org/W4391804846,https://openalex.org/C127413603,Engineering,0.6554826498031616
+https://openalex.org/W4391804846,https://openalex.org/C2777655017,Toolbox,0.5738307237625122
+https://openalex.org/W4391804846,https://openalex.org/C98045186,Process (computing),0.5471178889274597
+https://openalex.org/W4391804846,https://openalex.org/C189693848,Information exchange,0.5443134307861328
+https://openalex.org/W4391804846,https://openalex.org/C117251300,Parametric statistics,0.5345277786254883
+https://openalex.org/W4391804846,https://openalex.org/C15845906,Data exchange,0.5196431875228882
+https://openalex.org/W4391804846,https://openalex.org/C66862320,Building information modeling,0.4939163327217102
+https://openalex.org/W4391804846,https://openalex.org/C40011592,Prefabrication,0.46190744638442993
+https://openalex.org/W4391804846,https://openalex.org/C136525101,Fabrication,0.45958438515663147
+https://openalex.org/W2015053458,https://openalex.org/C125450124,Precast concrete,0.9747101068496704
+https://openalex.org/W2015053458,https://openalex.org/C157892014,Pier,0.8561369180679321
+https://openalex.org/W2015053458,https://openalex.org/C66938386,Structural engineering,0.8335418701171875
+https://openalex.org/W2015053458,https://openalex.org/C2778510302,Plastic hinge,0.6670966148376465
+https://openalex.org/W2015053458,https://openalex.org/C204366326,Deformation (meteorology),0.5671316385269165
+https://openalex.org/W2015053458,https://openalex.org/C127413603,Engineering,0.5428050756454468
+https://openalex.org/W2015053458,https://openalex.org/C2780886216,Prestressed concrete,0.521994948387146
+https://openalex.org/W2015053458,https://openalex.org/C2776512210,Ductility (Earth science),0.47969362139701843
+https://openalex.org/W2015053458,https://openalex.org/C107551265,Displacement (psychology),0.4746944308280945
+https://openalex.org/W2015053458,https://openalex.org/C100776233,Bridge (graph theory),0.45098409056663513
+https://openalex.org/W2030810864,https://openalex.org/C125450124,Precast concrete,0.9465357065200806
+https://openalex.org/W2030810864,https://openalex.org/C66938386,Structural engineering,0.8380534648895264
+https://openalex.org/W2030810864,https://openalex.org/C96035792,Shear (geology),0.6970676779747009
+https://openalex.org/W2030810864,https://openalex.org/C2778966251,Deck,0.6178139448165894
+https://openalex.org/W2030810864,https://openalex.org/C2779372316,Stiffness,0.5546829700469971
+https://openalex.org/W2030810864,https://openalex.org/C196316656,Girder,0.553650438785553
+https://openalex.org/W2030810864,https://openalex.org/C41151612,Direct shear test,0.4797995388507843
+https://openalex.org/W2030810864,https://openalex.org/C135628077,Finite element method,0.4627072811126709
+https://openalex.org/W2030810864,https://openalex.org/C127413603,Engineering,0.45970189571380615
+https://openalex.org/W2030810864,https://openalex.org/C110925319,Cable gland,0.426038920879364
+https://openalex.org/W2081855053,https://openalex.org/C66862320,Building information modeling,0.893078088760376
+https://openalex.org/W2081855053,https://openalex.org/C100776233,Bridge (graph theory),0.7434187531471252
+https://openalex.org/W2081855053,https://openalex.org/C91649852,Constructability,0.7036188840866089
+https://openalex.org/W2081855053,https://openalex.org/C20136886,Interoperability,0.6369544863700867
+https://openalex.org/W2081855053,https://openalex.org/C107053488,Construction engineering,0.5844736099243164
+https://openalex.org/W2081855053,https://openalex.org/C127413603,Engineering,0.565175473690033
+https://openalex.org/W2081855053,https://openalex.org/C21338462,Information model,0.5480499267578125
+https://openalex.org/W2081855053,https://openalex.org/C2780615836,USable,0.42179998755455017
+https://openalex.org/W2081855053,https://openalex.org/C201995342,Systems engineering,0.3991728723049164
+https://openalex.org/W2081855053,https://openalex.org/C41008148,Computer science,0.3870428502559662
+https://openalex.org/W2474936969,https://openalex.org/C2780787725,Stannate,0.953061580657959
+https://openalex.org/W2474936969,https://openalex.org/C30080830,Graphene,0.8506217002868652
+https://openalex.org/W2474936969,https://openalex.org/C155011858,Perovskite (structure),0.7464972138404846
+https://openalex.org/W2474936969,https://openalex.org/C535196362,Zinc,0.7378021478652954
+https://openalex.org/W2474936969,https://openalex.org/C192562407,Materials science,0.7182888388633728
+https://openalex.org/W2474936969,https://openalex.org/C171560689,Halide,0.7022198438644409
+https://openalex.org/W2474936969,https://openalex.org/C2779851234,Oxide,0.6309647560119629
+https://openalex.org/W2474936969,https://openalex.org/C91129048,Nanofiber,0.6286175847053528
+https://openalex.org/W2474936969,https://openalex.org/C171250308,Nanotechnology,0.43569493293762207
+https://openalex.org/W2474936969,https://openalex.org/C42360764,Chemical engineering,0.4113110899925232
+https://openalex.org/W2326583902,https://openalex.org/C100776233,Bridge (graph theory),0.6758939027786255
+https://openalex.org/W2326583902,https://openalex.org/C127413603,Engineering,0.5152835845947266
+https://openalex.org/W2326583902,https://openalex.org/C147176958,Civil engineering,0.4330736994743347
+https://openalex.org/W2326583902,https://openalex.org/C107053488,Construction engineering,0.4065989553928375
+https://openalex.org/W2326583902,https://openalex.org/C66938386,Structural engineering,0.391488641500473
+https://openalex.org/W2326583902,https://openalex.org/C77595967,Forensic engineering,0.3461567759513855
+https://openalex.org/W2326583902,https://openalex.org/C41008148,Computer science,0.34396618604660034
+https://openalex.org/W2326583902,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W2326583902,https://openalex.org/C71924100,Medicine,0.0
+https://openalex.org/W2939528016,https://openalex.org/C100776233,Bridge (graph theory),0.8503249883651733
+https://openalex.org/W2939528016,https://openalex.org/C2777188360,Bridge maintenance,0.5489532947540283
+https://openalex.org/W2939528016,https://openalex.org/C201305675,Stakeholder,0.5325255393981934
+https://openalex.org/W2939528016,https://openalex.org/C77618280,Scheme (mathematics),0.47901028394699097
+https://openalex.org/W2939528016,https://openalex.org/C66862320,Building information modeling,0.47541481256484985
+https://openalex.org/W2939528016,https://openalex.org/C107053488,Construction engineering,0.4558994472026825
+https://openalex.org/W2939528016,https://openalex.org/C18762648,Work (physics),0.4381338357925415
+https://openalex.org/W2939528016,https://openalex.org/C41008148,Computer science,0.4175729751586914
+https://openalex.org/W2939528016,https://openalex.org/C127413603,Engineering,0.3910974860191345
+https://openalex.org/W2939528016,https://openalex.org/C201995342,Systems engineering,0.33934301137924194
+https://openalex.org/W2059502518,https://openalex.org/C100776233,Bridge (graph theory),0.8822412490844727
+https://openalex.org/W2059502518,https://openalex.org/C125450124,Precast concrete,0.7503558993339539
+https://openalex.org/W2059502518,https://openalex.org/C127413603,Engineering,0.6155619025230408
+https://openalex.org/W2059502518,https://openalex.org/C107053488,Construction engineering,0.5750313401222229
+https://openalex.org/W2059502518,https://openalex.org/C21338462,Information model,0.5644764304161072
+https://openalex.org/W2059502518,https://openalex.org/C117110933,Construction management,0.5278261303901672
+https://openalex.org/W2059502518,https://openalex.org/C189928594,Box girder,0.4819919466972351
+https://openalex.org/W2059502518,https://openalex.org/C66862320,Building information modeling,0.42044341564178467
+https://openalex.org/W2059502518,https://openalex.org/C147176958,Civil engineering,0.3946738541126251
+https://openalex.org/W2059502518,https://openalex.org/C196316656,Girder,0.3023635149002075
+https://openalex.org/W3028048182,https://openalex.org/C192562407,Materials science,0.7440471053123474
+https://openalex.org/W3028048182,https://openalex.org/C20625102,Corrosion,0.6710140705108643
+https://openalex.org/W3028048182,https://openalex.org/C178405089,Flexural strength,0.6685172915458679
+https://openalex.org/W3028048182,https://openalex.org/C66938386,Structural engineering,0.6601635813713074
+https://openalex.org/W3028048182,https://openalex.org/C112950240,Ultimate tensile strength,0.6525969505310059
+https://openalex.org/W3028048182,https://openalex.org/C2776512210,Ductility (Earth science),0.6092106699943542
+https://openalex.org/W3028048182,https://openalex.org/C2780886216,Prestressed concrete,0.5965981483459473
+https://openalex.org/W3028048182,https://openalex.org/C159985019,Composite material,0.528947114944458
+https://openalex.org/W3028048182,https://openalex.org/C168834538,Beam (structure),0.518858790397644
+https://openalex.org/W3028048182,https://openalex.org/C204366326,Deformation (meteorology),0.4615184962749481
+https://openalex.org/W1979033790,https://openalex.org/C66938386,Structural engineering,0.8488291501998901
+https://openalex.org/W1979033790,https://openalex.org/C173534245,Truss,0.7427534461021423
+https://openalex.org/W1979033790,https://openalex.org/C194147245,Chord (peer-to-peer),0.6924797296524048
+https://openalex.org/W1979033790,https://openalex.org/C500666722,Solid mechanics,0.6472196578979492
+https://openalex.org/W1979033790,https://openalex.org/C135628077,Finite element method,0.6138699054718018
+https://openalex.org/W1979033790,https://openalex.org/C196316656,Girder,0.5649248957633972
+https://openalex.org/W1979033790,https://openalex.org/C28539199,Stress concentration,0.5635761618614197
+https://openalex.org/W1979033790,https://openalex.org/C2778249042,Grout,0.545940637588501
+https://openalex.org/W1979033790,https://openalex.org/C18555067,Joint (building),0.5452289581298828
+https://openalex.org/W1979033790,https://openalex.org/C192562407,Materials science,0.5181382894515991
+https://openalex.org/W2077270039,https://openalex.org/C126201875,Nanorod,0.9686143398284912
+https://openalex.org/W2077270039,https://openalex.org/C48421929,Dye-sensitized solar cell,0.9408470988273621
+https://openalex.org/W2077270039,https://openalex.org/C192562407,Materials science,0.786041796207428
+https://openalex.org/W2077270039,https://openalex.org/C206991015,Energy conversion efficiency,0.5773015022277832
+https://openalex.org/W2077270039,https://openalex.org/C2780824857,Solar cell,0.5548223853111267
+https://openalex.org/W2077270039,https://openalex.org/C7040849,Dielectric spectroscopy,0.5390341877937317
+https://openalex.org/W2077270039,https://openalex.org/C175708663,X-ray photoelectron spectroscopy,0.502119779586792
+https://openalex.org/W2077270039,https://openalex.org/C171250308,Nanotechnology,0.4889589548110962
+https://openalex.org/W2077270039,https://openalex.org/C49040817,Optoelectronics,0.45411255955696106
+https://openalex.org/W2077270039,https://openalex.org/C42360764,Chemical engineering,0.3231598138809204
+https://openalex.org/W2075851616,https://openalex.org/C125450124,Precast concrete,0.9065610766410828
+https://openalex.org/W2075851616,https://openalex.org/C113740112,Slab,0.7482950091362
+https://openalex.org/W2075851616,https://openalex.org/C96035792,Shear (geology),0.6662505865097046
+https://openalex.org/W2075851616,https://openalex.org/C66938386,Structural engineering,0.6596972346305847
+https://openalex.org/W2075851616,https://openalex.org/C192562407,Materials science,0.6128424406051636
+https://openalex.org/W2075851616,https://openalex.org/C112950240,Ultimate tensile strength,0.5213435888290405
+https://openalex.org/W2075851616,https://openalex.org/C2779372316,Stiffness,0.5117685794830322
+https://openalex.org/W2075851616,https://openalex.org/C168834538,Beam (structure),0.5070176124572754
+https://openalex.org/W2075851616,https://openalex.org/C178405089,Flexural strength,0.46520596742630005
+https://openalex.org/W2075851616,https://openalex.org/C195268267,Slip (aerodynamics),0.4314831495285034
+https://openalex.org/W2984875818,https://openalex.org/C49937458,Probabilistic logic,0.7422083020210266
+https://openalex.org/W2984875818,https://openalex.org/C66938386,Structural engineering,0.6964299082756042
+https://openalex.org/W2984875818,https://openalex.org/C81692654,Kriging,0.560585081577301
+https://openalex.org/W2984875818,https://openalex.org/C19499675,Monte Carlo method,0.5046194791793823
+https://openalex.org/W2984875818,https://openalex.org/C20625102,Corrosion,0.4804098904132843
+https://openalex.org/W2984875818,https://openalex.org/C135628077,Finite element method,0.46471107006073
+https://openalex.org/W2984875818,https://openalex.org/C127413603,Engineering,0.4267582893371582
+https://openalex.org/W2984875818,https://openalex.org/C163716315,Gaussian,0.41811513900756836
+https://openalex.org/W2984875818,https://openalex.org/C114289077,Statistical model,0.41530150175094604
+https://openalex.org/W2984875818,https://openalex.org/C192562407,Materials science,0.3335581421852112
+https://openalex.org/W1987985219,https://openalex.org/C104779481,Composite number,0.8261845111846924
+https://openalex.org/W1987985219,https://openalex.org/C125450124,Precast concrete,0.819832444190979
+https://openalex.org/W1987985219,https://openalex.org/C2776512210,Ductility (Earth science),0.7014405131340027
+https://openalex.org/W1987985219,https://openalex.org/C192562407,Materials science,0.6804748177528381
+https://openalex.org/W1987985219,https://openalex.org/C66938386,Structural engineering,0.6670843362808228
+https://openalex.org/W1987985219,https://openalex.org/C178405089,Flexural strength,0.591561496257782
+https://openalex.org/W1987985219,https://openalex.org/C159985019,Composite material,0.5361642241477966
+https://openalex.org/W1987985219,https://openalex.org/C67203356,Reinforcement,0.5207107663154602
+https://openalex.org/W1987985219,https://openalex.org/C58396970,Cracking,0.5126082301139832
+https://openalex.org/W1987985219,https://openalex.org/C2780551164,Column (typography),0.49133720993995667
+https://openalex.org/W2025847870,https://openalex.org/C144796933,Electrospinning,0.9365547895431519
+https://openalex.org/W2025847870,https://openalex.org/C48421929,Dye-sensitized solar cell,0.90469890832901
+https://openalex.org/W2025847870,https://openalex.org/C91129048,Nanofiber,0.8612298965454102
+https://openalex.org/W2025847870,https://openalex.org/C166524527,Titanium oxide,0.7154626250267029
+https://openalex.org/W2025847870,https://openalex.org/C506065880,Titanium,0.6293740272521973
+https://openalex.org/W2025847870,https://openalex.org/C192562407,Materials science,0.624048113822937
+https://openalex.org/W2025847870,https://openalex.org/C42360764,Chemical engineering,0.48988431692123413
+https://openalex.org/W2025847870,https://openalex.org/C2779851234,Oxide,0.46866047382354736
+https://openalex.org/W2025847870,https://openalex.org/C171250308,Nanotechnology,0.46610817313194275
+https://openalex.org/W2025847870,https://openalex.org/C185592680,Chemistry,0.21653753519058228
+https://openalex.org/W3095179587,https://openalex.org/C100776233,Bridge (graph theory),0.8561113476753235
+https://openalex.org/W3095179587,https://openalex.org/C105341887,Suspension (topology),0.6437333822250366
+https://openalex.org/W3095179587,https://openalex.org/C93518851,Metadata,0.5825216770172119
+https://openalex.org/W3095179587,https://openalex.org/C98045186,Process (computing),0.575875461101532
+https://openalex.org/W3095179587,https://openalex.org/C41008148,Computer science,0.5078328251838684
+https://openalex.org/W3095179587,https://openalex.org/C100463513,Data model (GIS),0.43874433636665344
+https://openalex.org/W3095179587,https://openalex.org/C2778864079,Digital data,0.4252641797065735
+https://openalex.org/W3095179587,https://openalex.org/C66862320,Building information modeling,0.41703730821609497
+https://openalex.org/W3095179587,https://openalex.org/C127413603,Engineering,0.38893258571624756
+https://openalex.org/W3095179587,https://openalex.org/C201995342,Systems engineering,0.3202258348464966
+https://openalex.org/W2979769104,https://openalex.org/C100776233,Bridge (graph theory),0.8433516025543213
+https://openalex.org/W2979769104,https://openalex.org/C41661131,Interrupt,0.628122091293335
+https://openalex.org/W2979769104,https://openalex.org/C20136886,Interoperability,0.5610085725784302
+https://openalex.org/W2979769104,https://openalex.org/C127413603,Engineering,0.5566763877868652
+https://openalex.org/W2979769104,https://openalex.org/C196316656,Girder,0.44504404067993164
+https://openalex.org/W2979769104,https://openalex.org/C66938386,Structural engineering,0.4276387691497803
+https://openalex.org/W2979769104,https://openalex.org/C41008148,Computer science,0.37783095240592957
+https://openalex.org/W2979769104,https://openalex.org/C149635348,Embedded system,0.10163846611976624
+https://openalex.org/W2979769104,https://openalex.org/C136764020,World Wide Web,0.07289078831672668
+https://openalex.org/W2979769104,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W2887257261,https://openalex.org/C100776233,Bridge (graph theory),0.8159605264663696
+https://openalex.org/W2887257261,https://openalex.org/C71901391,Upload,0.6595034599304199
+https://openalex.org/W2887257261,https://openalex.org/C98045186,Process (computing),0.6255201101303101
+https://openalex.org/W2887257261,https://openalex.org/C547195049,Terminology,0.6240505576133728
+https://openalex.org/W2887257261,https://openalex.org/C107053488,Construction engineering,0.4960037171840668
+https://openalex.org/W2887257261,https://openalex.org/C41008148,Computer science,0.4846540093421936
+https://openalex.org/W2887257261,https://openalex.org/C198783460,Management system,0.4692133963108063
+https://openalex.org/W2887257261,https://openalex.org/C201995342,Systems engineering,0.38118335604667664
+https://openalex.org/W2887257261,https://openalex.org/C127413603,Engineering,0.3746201992034912
+https://openalex.org/W2887257261,https://openalex.org/C136764020,World Wide Web,0.158731609582901
+https://openalex.org/W3099222548,https://openalex.org/C192562407,Materials science,0.7577379941940308
+https://openalex.org/W3099222548,https://openalex.org/C178405089,Flexural strength,0.6974974274635315
+https://openalex.org/W3099222548,https://openalex.org/C20625102,Corrosion,0.6676605939865112
+https://openalex.org/W3099222548,https://openalex.org/C136478896,Brittleness,0.6286810636520386
+https://openalex.org/W3099222548,https://openalex.org/C112950240,Ultimate tensile strength,0.589596152305603
+https://openalex.org/W3099222548,https://openalex.org/C66938386,Structural engineering,0.5886339545249939
+https://openalex.org/W3099222548,https://openalex.org/C168834538,Beam (structure),0.548399031162262
+https://openalex.org/W3099222548,https://openalex.org/C2780886216,Prestressed concrete,0.5336692333221436
+https://openalex.org/W3099222548,https://openalex.org/C159985019,Composite material,0.5259299874305725
+https://openalex.org/W3099222548,https://openalex.org/C86060186,Three point flexural test,0.47400081157684326
+https://openalex.org/W3183825684,https://openalex.org/C196316656,Girder,0.8884072303771973
+https://openalex.org/W3183825684,https://openalex.org/C66938386,Structural engineering,0.7848978042602539
+https://openalex.org/W3183825684,https://openalex.org/C58396970,Cracking,0.7629503607749939
+https://openalex.org/W3183825684,https://openalex.org/C2780886216,Prestressed concrete,0.7462878227233887
+https://openalex.org/W3183825684,https://openalex.org/C178405089,Flexural strength,0.6883969902992249
+https://openalex.org/W3183825684,https://openalex.org/C100776233,Bridge (graph theory),0.5346893668174744
+https://openalex.org/W3183825684,https://openalex.org/C127413603,Engineering,0.47812238335609436
+https://openalex.org/W3183825684,https://openalex.org/C103208741,Service life,0.4181225597858429
+https://openalex.org/W3183825684,https://openalex.org/C187320778,Geotechnical engineering,0.348469078540802
+https://openalex.org/W3183825684,https://openalex.org/C192562407,Materials science,0.34814393520355225
+https://openalex.org/W4386744870,https://openalex.org/C100776233,Bridge (graph theory),0.8605346083641052
+https://openalex.org/W4386744870,https://openalex.org/C56666940,Documentation,0.6768097281455994
+https://openalex.org/W4386744870,https://openalex.org/C41008148,Computer science,0.6168659329414368
+https://openalex.org/W4386744870,https://openalex.org/C2777188360,Bridge maintenance,0.49771788716316223
+https://openalex.org/W4386744870,https://openalex.org/C201995342,Systems engineering,0.4092618525028229
+https://openalex.org/W4386744870,https://openalex.org/C107053488,Construction engineering,0.35858818888664246
+https://openalex.org/W4386744870,https://openalex.org/C112930515,Risk analysis (engineering),0.3408433496952057
+https://openalex.org/W4386744870,https://openalex.org/C127413603,Engineering,0.3337392210960388
+https://openalex.org/W4386744870,https://openalex.org/C66938386,Structural engineering,0.0
+https://openalex.org/W4386744870,https://openalex.org/C199360897,Programming language,0.0
+https://openalex.org/W2025594878,https://openalex.org/C125450124,Precast concrete,0.9630545377731323
+https://openalex.org/W2025594878,https://openalex.org/C66938386,Structural engineering,0.8315054178237915
+https://openalex.org/W2025594878,https://openalex.org/C58396970,Cracking,0.7851461172103882
+https://openalex.org/W2025594878,https://openalex.org/C2778966251,Deck,0.6030340790748596
+https://openalex.org/W2025594878,https://openalex.org/C2779372316,Stiffness,0.5345133543014526
+https://openalex.org/W2025594878,https://openalex.org/C18555067,Joint (building),0.49573907256126404
+https://openalex.org/W2025594878,https://openalex.org/C96035792,Shear (geology),0.49351465702056885
+https://openalex.org/W2025594878,https://openalex.org/C192562407,Materials science,0.4819733500480652
+https://openalex.org/W2025594878,https://openalex.org/C135628077,Finite element method,0.44974827766418457
+https://openalex.org/W2025594878,https://openalex.org/C178405089,Flexural strength,0.43616536259651184
+https://openalex.org/W2141276063,https://openalex.org/C125450124,Precast concrete,0.9208000898361206
+https://openalex.org/W2141276063,https://openalex.org/C66938386,Structural engineering,0.7845667600631714
+https://openalex.org/W2141276063,https://openalex.org/C96035792,Shear (geology),0.6447466611862183
+https://openalex.org/W2141276063,https://openalex.org/C13355873,Connection (principal bundle),0.5950410962104797
+https://openalex.org/W2141276063,https://openalex.org/C113740112,Slab,0.5881068706512451
+https://openalex.org/W2141276063,https://openalex.org/C2778966251,Deck,0.5369771122932434
+https://openalex.org/W2141276063,https://openalex.org/C127413603,Engineering,0.4755423069000244
+https://openalex.org/W2141276063,https://openalex.org/C127893833,Shear strength (soil),0.4446316659450531
+https://openalex.org/W2141276063,https://openalex.org/C41151612,Direct shear test,0.4145960807800293
+https://openalex.org/W2141276063,https://openalex.org/C192562407,Materials science,0.27666419744491577
+https://openalex.org/W2965063264,https://openalex.org/C41008148,Computer science,0.48612260818481445
+https://openalex.org/W2965063264,https://openalex.org/C23725684,Maintenance engineering,0.4117050766944885
+https://openalex.org/W2965063264,https://openalex.org/C127413603,Engineering,0.2891838848590851
+https://openalex.org/W2965063264,https://openalex.org/C200601418,Reliability engineering,0.19951829314231873
+https://openalex.org/W2980052117,https://openalex.org/C100776233,Bridge (graph theory),0.7685457468032837
+https://openalex.org/W2980052117,https://openalex.org/C192328126,Schematic,0.6930924654006958
+https://openalex.org/W2980052117,https://openalex.org/C153715457,Augmented reality,0.6487410664558411
+https://openalex.org/W2980052117,https://openalex.org/C2780451532,Task (project management),0.546572208404541
+https://openalex.org/W2980052117,https://openalex.org/C2777188360,Bridge maintenance,0.5115107297897339
+https://openalex.org/W2980052117,https://openalex.org/C52146309,Schema (genetic algorithms),0.4874291718006134
+https://openalex.org/W2980052117,https://openalex.org/C127413603,Engineering,0.47195711731910706
+https://openalex.org/W2980052117,https://openalex.org/C41008148,Computer science,0.47084924578666687
+https://openalex.org/W2980052117,https://openalex.org/C198783460,Management system,0.46294131875038147
+https://openalex.org/W2980052117,https://openalex.org/C2780378061,Service (business),0.4522720277309418
+https://openalex.org/W2006093670,https://openalex.org/C66938386,Structural engineering,0.8507370948791504
+https://openalex.org/W2006093670,https://openalex.org/C2778966251,Deck,0.7485250234603882
+https://openalex.org/W2006093670,https://openalex.org/C196316656,Girder,0.6787577271461487
+https://openalex.org/W2006093670,https://openalex.org/C113740112,Slab,0.6379879117012024
+https://openalex.org/W2006093670,https://openalex.org/C2779372316,Stiffness,0.6145787835121155
+https://openalex.org/W2006093670,https://openalex.org/C104779481,Composite number,0.5794568657875061
+https://openalex.org/W2006093670,https://openalex.org/C96035792,Shear (geology),0.5394713282585144
+https://openalex.org/W2006093670,https://openalex.org/C127413603,Engineering,0.5118159651756287
+https://openalex.org/W2006093670,https://openalex.org/C178405089,Flexural strength,0.5114220976829529
+https://openalex.org/W2006093670,https://openalex.org/C2778753569,Span (engineering),0.4288511276245117
+https://openalex.org/W2060704654,https://openalex.org/C47519245,Metal foam,0.8440300226211548
+https://openalex.org/W2060704654,https://openalex.org/C192562407,Materials science,0.8171167373657227
+https://openalex.org/W2060704654,https://openalex.org/C85463006,Sandwich-structured composite,0.6736572980880737
+https://openalex.org/W2060704654,https://openalex.org/C159985019,Composite material,0.6653270721435547
+https://openalex.org/W2060704654,https://openalex.org/C150603412,Aluminium foam sandwich,0.6481605768203735
+https://openalex.org/W2060704654,https://openalex.org/C513153333,Aluminium,0.580664873123169
+https://openalex.org/W2060704654,https://openalex.org/C500666722,Solid mechanics,0.5505516529083252
+https://openalex.org/W2060704654,https://openalex.org/C2778500112,Foam concrete,0.5413818359375
+https://openalex.org/W2060704654,https://openalex.org/C80107235,Penetration (warfare),0.5151187777519226
+https://openalex.org/W2060704654,https://openalex.org/C104779481,Composite number,0.4654672145843506
+https://openalex.org/W2129670673,https://openalex.org/C2779728058,CZTS,0.9863510131835938
+https://openalex.org/W2129670673,https://openalex.org/C2775851497,Kesterite,0.9756238460540771
+https://openalex.org/W2129670673,https://openalex.org/C2780077769,Polyvinylpyrrolidone,0.7417163848876953
+https://openalex.org/W2129670673,https://openalex.org/C192562407,Materials science,0.7169853448867798
+https://openalex.org/W2129670673,https://openalex.org/C175708663,X-ray photoelectron spectroscopy,0.66746586561203
+https://openalex.org/W2129670673,https://openalex.org/C161368742,High-resolution transmission electron microscopy,0.6274640560150146
+https://openalex.org/W2129670673,https://openalex.org/C155672457,Nanoparticle,0.5612828731536865
+https://openalex.org/W2129670673,https://openalex.org/C2776011623,Solvothermal synthesis,0.5611119270324707
+https://openalex.org/W2129670673,https://openalex.org/C40003534,Raman spectroscopy,0.5501547455787659
+https://openalex.org/W2129670673,https://openalex.org/C42360764,Chemical engineering,0.5165223479270935
+https://openalex.org/W2087221582,https://openalex.org/C192562407,Materials science,0.7106480598449707
+https://openalex.org/W2087221582,https://openalex.org/C47519245,Metal foam,0.6734899282455444
+https://openalex.org/W2087221582,https://openalex.org/C204366326,Deformation (meteorology),0.524726927280426
+https://openalex.org/W2087221582,https://openalex.org/C150603412,Aluminium foam sandwich,0.5229476094245911
+https://openalex.org/W2087221582,https://openalex.org/C513153333,Aluminium,0.5228826999664307
+https://openalex.org/W2087221582,https://openalex.org/C159985019,Composite material,0.5164223313331604
+https://openalex.org/W2087221582,https://openalex.org/C85463006,Sandwich-structured composite,0.4785366952419281
+https://openalex.org/W2087221582,https://openalex.org/C2778500112,Foam concrete,0.44256308674812317
+https://openalex.org/W2087221582,https://openalex.org/C66938386,Structural engineering,0.372650146484375
+https://openalex.org/W2087221582,https://openalex.org/C127413603,Engineering,0.11987936496734619
+https://openalex.org/W2790101251,https://openalex.org/C125450124,Precast concrete,0.8286401033401489
+https://openalex.org/W2790101251,https://openalex.org/C100776233,Bridge (graph theory),0.7223036289215088
+https://openalex.org/W2790101251,https://openalex.org/C136525101,Fabrication,0.6122466921806335
+https://openalex.org/W2790101251,https://openalex.org/C26517878,Key (lock),0.5577079057693481
+https://openalex.org/W2790101251,https://openalex.org/C199639397,Engineering drawing,0.472003698348999
+https://openalex.org/W2790101251,https://openalex.org/C127413603,Engineering,0.4672320485115051
+https://openalex.org/W2790101251,https://openalex.org/C41008148,Computer science,0.4492737054824829
+https://openalex.org/W2790101251,https://openalex.org/C157892014,Pier,0.42604827880859375
+https://openalex.org/W2790101251,https://openalex.org/C119823426,Computer Aided Design,0.4234086871147156
+https://openalex.org/W2790101251,https://openalex.org/C66938386,Structural engineering,0.40711286664009094
+https://openalex.org/W3123091429,https://openalex.org/C192562407,Materials science,0.7499516010284424
+https://openalex.org/W3123091429,https://openalex.org/C20625102,Corrosion,0.7362387776374817
+https://openalex.org/W3123091429,https://openalex.org/C178405089,Flexural strength,0.7192272543907166
+https://openalex.org/W3123091429,https://openalex.org/C112950240,Ultimate tensile strength,0.7168329954147339
+https://openalex.org/W3123091429,https://openalex.org/C2776512210,Ductility (Earth science),0.7078437209129333
+https://openalex.org/W3123091429,https://openalex.org/C66938386,Structural engineering,0.6929498910903931
+https://openalex.org/W3123091429,https://openalex.org/C2780886216,Prestressed concrete,0.6657571792602539
+https://openalex.org/W3123091429,https://openalex.org/C168834538,Beam (structure),0.5569102764129639
+https://openalex.org/W3123091429,https://openalex.org/C159985019,Composite material,0.5495164394378662
+https://openalex.org/W3123091429,https://openalex.org/C204366326,Deformation (meteorology),0.5270562171936035
+https://openalex.org/W2115951371,https://openalex.org/C192562407,Materials science,0.8779797554016113
+https://openalex.org/W2115951371,https://openalex.org/C124657808,Quantum dot,0.8029693365097046
+https://openalex.org/W2115951371,https://openalex.org/C126201875,Nanorod,0.7471086978912354
+https://openalex.org/W2115951371,https://openalex.org/C2779845233,Photocurrent,0.7058137059211731
+https://openalex.org/W2115951371,https://openalex.org/C2779921683,Cadmium sulfide,0.6156695485115051
+https://openalex.org/W2115951371,https://openalex.org/C7040849,Dielectric spectroscopy,0.5737556219100952
+https://openalex.org/W2115951371,https://openalex.org/C49040817,Optoelectronics,0.4840240180492401
+https://openalex.org/W2115951371,https://openalex.org/C57631264,Open-circuit voltage,0.4763517677783966
+https://openalex.org/W2115951371,https://openalex.org/C68583231,Short circuit,0.47453129291534424
+https://openalex.org/W2115951371,https://openalex.org/C206991015,Energy conversion efficiency,0.47024646401405334
+https://openalex.org/W2321590661,https://openalex.org/C500666722,Solid mechanics,0.7577190399169922
+https://openalex.org/W2321590661,https://openalex.org/C138211643,Bent molecular geometry,0.7155000567436218
+https://openalex.org/W2321590661,https://openalex.org/C104779481,Composite number,0.6818540096282959
+https://openalex.org/W2321590661,https://openalex.org/C66938386,Structural engineering,0.6486687064170837
+https://openalex.org/W2321590661,https://openalex.org/C192562407,Materials science,0.44911089539527893
+https://openalex.org/W2321590661,https://openalex.org/C127413603,Engineering,0.420762300491333
+https://openalex.org/W2321590661,https://openalex.org/C159985019,Composite material,0.38896113634109497
+https://openalex.org/W2321590661,https://openalex.org/C77595967,Forensic engineering,0.3504337668418884
+https://openalex.org/W32278049,https://openalex.org/C171560689,Halide,0.9402501583099365
+https://openalex.org/W32278049,https://openalex.org/C192562407,Materials science,0.5153500437736511
+https://openalex.org/W32278049,https://openalex.org/C185592680,Chemistry,0.32579636573791504
+https://openalex.org/W32278049,https://openalex.org/C179104552,Inorganic chemistry,0.30018991231918335
+https://openalex.org/W4310009741,https://openalex.org/C20625102,Corrosion,0.8555843234062195
+https://openalex.org/W4310009741,https://openalex.org/C192562407,Materials science,0.6225464940071106
+https://openalex.org/W4310009741,https://openalex.org/C155512373,Residual,0.5364060997962952
+https://openalex.org/W4310009741,https://openalex.org/C2780886216,Prestressed concrete,0.5300891995429993
+https://openalex.org/W4310009741,https://openalex.org/C66938386,Structural engineering,0.4819605052471161
+https://openalex.org/W4310009741,https://openalex.org/C20965850,Residual strength,0.4475633502006531
+https://openalex.org/W4310009741,https://openalex.org/C159985019,Composite material,0.3504600524902344
+https://openalex.org/W4310009741,https://openalex.org/C127413603,Engineering,0.1944490671157837
+https://openalex.org/W4310009741,https://openalex.org/C41008148,Computer science,0.09468391537666321
+https://openalex.org/W4310009741,https://openalex.org/C11413529,Algorithm,0.0
+https://openalex.org/W4383873797,https://openalex.org/C49852136,Depolymerization,0.9283691048622131
+https://openalex.org/W4383873797,https://openalex.org/C171359207,Thermosetting polymer,0.7366045713424683
+https://openalex.org/W4383873797,https://openalex.org/C192562407,Materials science,0.6200866103172302
+https://openalex.org/W4383873797,https://openalex.org/C104779481,Composite number,0.5889943838119507
+https://openalex.org/W4383873797,https://openalex.org/C166595027,Epoxy,0.5521869659423828
+https://openalex.org/W4383873797,https://openalex.org/C159985019,Composite material,0.5420488119125366
+https://openalex.org/W4383873797,https://openalex.org/C179428855,Microscale chemistry,0.5040720701217651
+https://openalex.org/W4383873797,https://openalex.org/C188027245,Polymer chemistry,0.23334923386573792
+https://openalex.org/W4383873797,https://openalex.org/C33923547,Mathematics,0.06974196434020996
+https://openalex.org/W4383873797,https://openalex.org/C145420912,Mathematics education,0.0
+https://openalex.org/W4391157089,https://openalex.org/C96035792,Shear (geology),0.5370064973831177
+https://openalex.org/W4391157089,https://openalex.org/C41008148,Computer science,0.48529762029647827
+https://openalex.org/W4391157089,https://openalex.org/C66938386,Structural engineering,0.4166165590286255
+https://openalex.org/W4391157089,https://openalex.org/C199639397,Engineering drawing,0.34428519010543823
+https://openalex.org/W4391157089,https://openalex.org/C154945302,Artificial intelligence,0.33339768648147583
+https://openalex.org/W4391157089,https://openalex.org/C127413603,Engineering,0.3075653612613678
+https://openalex.org/W4391157089,https://openalex.org/C192562407,Materials science,0.2648817002773285
+https://openalex.org/W4391157089,https://openalex.org/C159985019,Composite material,0.1144561767578125
+https://openalex.org/W1847398994,https://openalex.org/C48421929,Dye-sensitized solar cell,0.794465184211731
+https://openalex.org/W1847398994,https://openalex.org/C42360764,Chemical engineering,0.5711687207221985
+https://openalex.org/W1847398994,https://openalex.org/C544153396,Metal,0.5384466648101807
+https://openalex.org/W1847398994,https://openalex.org/C192562407,Materials science,0.5037161707878113
+https://openalex.org/W1847398994,https://openalex.org/C171250308,Nanotechnology,0.4633370637893677
+https://openalex.org/W1847398994,https://openalex.org/C185592680,Chemistry,0.30523785948753357
+https://openalex.org/W1847398994,https://openalex.org/C191897082,Metallurgy,0.1791902780532837
+https://openalex.org/W1847398994,https://openalex.org/C147789679,Physical chemistry,0.08204442262649536
+https://openalex.org/W1847398994,https://openalex.org/C127413603,Engineering,0.04309847950935364
+https://openalex.org/W1847398994,https://openalex.org/C17525397,Electrode,0.0420764684677124
+https://openalex.org/W2615725039,https://openalex.org/C7040849,Dielectric spectroscopy,0.8383467197418213
+https://openalex.org/W2615725039,https://openalex.org/C192562407,Materials science,0.7591593265533447
+https://openalex.org/W2615725039,https://openalex.org/C2779845233,Photocurrent,0.682409405708313
+https://openalex.org/W2615725039,https://openalex.org/C42360764,Chemical engineering,0.6695281267166138
+https://openalex.org/W2615725039,https://openalex.org/C155011858,Perovskite (structure),0.664230227470398
+https://openalex.org/W2615725039,https://openalex.org/C2777593239,Titanium dioxide,0.5716773867607117
+https://openalex.org/W2615725039,https://openalex.org/C2777889555,Rutile,0.5548099279403687
+https://openalex.org/W2615725039,https://openalex.org/C206991015,Energy conversion efficiency,0.5069141983985901
+https://openalex.org/W2615725039,https://openalex.org/C186187911,Nanostructure,0.484857439994812
+https://openalex.org/W2615725039,https://openalex.org/C65165184,Photocatalysis,0.4394092857837677
+https://openalex.org/W4403452765,https://openalex.org/C96035792,Shear (geology),0.4322960376739502
+https://openalex.org/W4403452765,https://openalex.org/C66938386,Structural engineering,0.4241170883178711
+https://openalex.org/W4403452765,https://openalex.org/C41008148,Computer science,0.3871016502380371
+https://openalex.org/W4403452765,https://openalex.org/C127413603,Engineering,0.3810960650444031
+https://openalex.org/W4403452765,https://openalex.org/C192562407,Materials science,0.2864748239517212
+https://openalex.org/W4403452765,https://openalex.org/C159985019,Composite material,0.11506953835487366
+https://openalex.org/W4385989153,https://openalex.org/C20625102,Corrosion,0.6967819929122925
+https://openalex.org/W4385989153,https://openalex.org/C160234255,Bayesian inference,0.6615415811538696
+https://openalex.org/W4385989153,https://openalex.org/C111350023,Markov chain Monte Carlo,0.6361624002456665
+https://openalex.org/W4385989153,https://openalex.org/C49937458,Probabilistic logic,0.552819550037384
+https://openalex.org/W4385989153,https://openalex.org/C19499675,Monte Carlo method,0.533321738243103
+https://openalex.org/W4385989153,https://openalex.org/C2776214188,Inference,0.5272901058197021
+https://openalex.org/W4385989153,https://openalex.org/C66938386,Structural engineering,0.5256187319755554
+https://openalex.org/W4385989153,https://openalex.org/C107673813,Bayesian probability,0.4441371560096741
+https://openalex.org/W4385989153,https://openalex.org/C207201462,Bayes' theorem,0.44387489557266235
+https://openalex.org/W4385989153,https://openalex.org/C41008148,Computer science,0.4122295081615448
+https://openalex.org/W4407086150,https://openalex.org/C100776233,Bridge (graph theory),0.7672589421272278
+https://openalex.org/W4407086150,https://openalex.org/C127413603,Engineering,0.5874828100204468
+https://openalex.org/W4407086150,https://openalex.org/C2778966251,Deck,0.5720430612564087
+https://openalex.org/W4407086150,https://openalex.org/C2776654903,SAFER,0.4974565804004669
+https://openalex.org/W4407086150,https://openalex.org/C43214815,Reliability (semiconductor),0.4528832733631134
+https://openalex.org/W4407086150,https://openalex.org/C48044578,Scalability,0.41626033186912537
+https://openalex.org/W4407086150,https://openalex.org/C41008148,Computer science,0.34001484513282776
+https://openalex.org/W4407086150,https://openalex.org/C66938386,Structural engineering,0.1933930218219757
+https://openalex.org/W4407086150,https://openalex.org/C71924100,Medicine,0.0
+https://openalex.org/W4407086150,https://openalex.org/C77088390,Database,0.0
+https://openalex.org/W2145691981,https://openalex.org/C47519245,Metal foam,0.7794366478919983
+https://openalex.org/W2145691981,https://openalex.org/C192562407,Materials science,0.7387526035308838
+https://openalex.org/W2145691981,https://openalex.org/C85463006,Sandwich-structured composite,0.6706373691558838
+https://openalex.org/W2145691981,https://openalex.org/C66938386,Structural engineering,0.5657589435577393
+https://openalex.org/W2145691981,https://openalex.org/C159985019,Composite material,0.5543288588523865
+https://openalex.org/W2145691981,https://openalex.org/C180016635,Compression (physics),0.5335234999656677
+https://openalex.org/W2145691981,https://openalex.org/C150603412,Aluminium foam sandwich,0.5166897773742676
+https://openalex.org/W2145691981,https://openalex.org/C2778500112,Foam concrete,0.4710027277469635
+https://openalex.org/W2145691981,https://openalex.org/C203224028,Blast wave,0.4708622992038727
+https://openalex.org/W2145691981,https://openalex.org/C96035792,Shear (geology),0.4650353789329529
+https://openalex.org/W2088745113,https://openalex.org/C66938386,Structural engineering,0.8509557247161865
+https://openalex.org/W2088745113,https://openalex.org/C110245778,Serviceability (structure),0.7429667711257935
+https://openalex.org/W2088745113,https://openalex.org/C58396970,Cracking,0.6629897356033325
+https://openalex.org/W2088745113,https://openalex.org/C2780886216,Prestressed concrete,0.6232850551605225
+https://openalex.org/W2088745113,https://openalex.org/C2778966251,Deck,0.6036162972450256
+https://openalex.org/W2088745113,https://openalex.org/C178405089,Flexural strength,0.5754398107528687
+https://openalex.org/W2088745113,https://openalex.org/C108729823,Stiffening,0.5576803684234619
+https://openalex.org/W2088745113,https://openalex.org/C196316656,Girder,0.5391005277633667
+https://openalex.org/W2088745113,https://openalex.org/C96035792,Shear (geology),0.45119309425354004
+https://openalex.org/W2088745113,https://openalex.org/C127413603,Engineering,0.44051626324653625
+https://openalex.org/W2068715350,https://openalex.org/C181781793,Eurocode,0.8500654101371765
+https://openalex.org/W2068715350,https://openalex.org/C125450124,Precast concrete,0.8174405097961426
+https://openalex.org/W2068715350,https://openalex.org/C66938386,Structural engineering,0.7936817407608032
+https://openalex.org/W2068715350,https://openalex.org/C96035792,Shear (geology),0.7092136740684509
+https://openalex.org/W2068715350,https://openalex.org/C113740112,Slab,0.6230741143226624
+https://openalex.org/W2068715350,https://openalex.org/C16995789,Limit state design,0.6078432202339172
+https://openalex.org/W2068715350,https://openalex.org/C127413603,Engineering,0.4412546753883362
+https://openalex.org/W2068715350,https://openalex.org/C187320778,Geotechnical engineering,0.3695168197154999
+https://openalex.org/W2068715350,https://openalex.org/C192562407,Materials science,0.3095330595970154
+https://openalex.org/W2068715350,https://openalex.org/C159985019,Composite material,0.15270844101905823
+https://openalex.org/W2004553717,https://openalex.org/C66938386,Structural engineering,0.7259682416915894
+https://openalex.org/W2004553717,https://openalex.org/C104779481,Composite number,0.6861010789871216
+https://openalex.org/W2004553717,https://openalex.org/C112950240,Ultimate tensile strength,0.6334902048110962
+https://openalex.org/W2004553717,https://openalex.org/C196316656,Girder,0.5985138416290283
+https://openalex.org/W2004553717,https://openalex.org/C88504338,Weldability,0.5611647963523865
+https://openalex.org/W2004553717,https://openalex.org/C173534245,Truss,0.5522227883338928
+https://openalex.org/W2004553717,https://openalex.org/C19474535,Welding,0.5373111963272095
+https://openalex.org/W2004553717,https://openalex.org/C42003148,Specific modulus,0.4959736764431
+https://openalex.org/W2004553717,https://openalex.org/C85476182,Buckling,0.48345646262168884
+https://openalex.org/W2004553717,https://openalex.org/C2779372316,Stiffness,0.48086076974868774
+https://openalex.org/W2021571653,https://openalex.org/C2776512210,Ductility (Earth science),0.7578656077384949
+https://openalex.org/W2021571653,https://openalex.org/C104779481,Composite number,0.7359356880187988
+https://openalex.org/W2021571653,https://openalex.org/C125450124,Precast concrete,0.7209150791168213
+https://openalex.org/W2021571653,https://openalex.org/C66938386,Structural engineering,0.6753664016723633
+https://openalex.org/W2021571653,https://openalex.org/C192562407,Materials science,0.6529631018638611
+https://openalex.org/W2021571653,https://openalex.org/C157892014,Pier,0.5823258757591248
+https://openalex.org/W2021571653,https://openalex.org/C67203356,Reinforcement,0.5582865476608276
+https://openalex.org/W2021571653,https://openalex.org/C204366326,Deformation (meteorology),0.5228112936019897
+https://openalex.org/W2021571653,https://openalex.org/C154954056,Transverse plane,0.5022459030151367
+https://openalex.org/W2021571653,https://openalex.org/C2778510302,Plastic hinge,0.48352789878845215
+https://openalex.org/W2139711739,https://openalex.org/C125450124,Precast concrete,0.9742370843887329
+https://openalex.org/W2139711739,https://openalex.org/C200070095,Structural material,0.8132624626159668
+https://openalex.org/W2139711739,https://openalex.org/C110925319,Cable gland,0.729533314704895
+https://openalex.org/W2139711739,https://openalex.org/C66938386,Structural engineering,0.5901279449462891
+https://openalex.org/W2139711739,https://openalex.org/C96035792,Shear (geology),0.5834988951683044
+https://openalex.org/W2139711739,https://openalex.org/C500666722,Solid mechanics,0.544653594493866
+https://openalex.org/W2139711739,https://openalex.org/C192562407,Materials science,0.5179969072341919
+https://openalex.org/W2139711739,https://openalex.org/C127413603,Engineering,0.41090911626815796
+https://openalex.org/W2139711739,https://openalex.org/C77595967,Forensic engineering,0.4053632318973541
+https://openalex.org/W2139711739,https://openalex.org/C159985019,Composite material,0.3574059009552002
+https://openalex.org/W3036418060,https://openalex.org/C29081049,Image stitching,0.9552693367004395
+https://openalex.org/W3036418060,https://openalex.org/C154945302,Artificial intelligence,0.7317721843719482
+https://openalex.org/W3036418060,https://openalex.org/C31972630,Computer vision,0.6935603022575378
+https://openalex.org/W3036418060,https://openalex.org/C68010082,Delaunay triangulation,0.6847570538520813
+https://openalex.org/W3036418060,https://openalex.org/C41008148,Computer science,0.6387006044387817
+https://openalex.org/W3036418060,https://openalex.org/C2776401178,Feature (linguistics),0.5446684956550598
+https://openalex.org/W3036418060,https://openalex.org/C135981907,Triangulation,0.5422424077987671
+https://openalex.org/W3036418060,https://openalex.org/C117251300,Parametric statistics,0.49539482593536377
+https://openalex.org/W3036418060,https://openalex.org/C165064840,Matching (statistics),0.4713808000087738
+https://openalex.org/W3036418060,https://openalex.org/C9417928,Image processing,0.42575377225875854
+https://openalex.org/W2087809966,https://openalex.org/C2779728058,CZTS,0.9701790809631348
+https://openalex.org/W2087809966,https://openalex.org/C185910354,Auxiliary electrode,0.8109647631645203
+https://openalex.org/W2087809966,https://openalex.org/C2775851497,Kesterite,0.7680162191390991
+https://openalex.org/W2087809966,https://openalex.org/C192562407,Materials science,0.7329251766204834
+https://openalex.org/W2087809966,https://openalex.org/C48421929,Dye-sensitized solar cell,0.655648946762085
+https://openalex.org/W2087809966,https://openalex.org/C206991015,Energy conversion efficiency,0.6294885873794556
+https://openalex.org/W2087809966,https://openalex.org/C7040849,Dielectric spectroscopy,0.6217789053916931
+https://openalex.org/W2087809966,https://openalex.org/C40003534,Raman spectroscopy,0.6087400913238525
+https://openalex.org/W2087809966,https://openalex.org/C17525397,Electrode,0.523466944694519
+https://openalex.org/W2087809966,https://openalex.org/C26771246,Scanning electron microscope,0.5224624872207642
+https://openalex.org/W2464165275,https://openalex.org/C192562407,Materials science,0.8926211595535278
+https://openalex.org/W2464165275,https://openalex.org/C48421929,Dye-sensitized solar cell,0.8819971680641174
+https://openalex.org/W2464165275,https://openalex.org/C126201875,Nanorod,0.82145094871521
+https://openalex.org/W2464165275,https://openalex.org/C40003534,Raman spectroscopy,0.6186015605926514
+https://openalex.org/W2464165275,https://openalex.org/C206991015,Energy conversion efficiency,0.6020656824111938
+https://openalex.org/W2464165275,https://openalex.org/C7040849,Dielectric spectroscopy,0.5612030625343323
+https://openalex.org/W2464165275,https://openalex.org/C175708663,X-ray photoelectron spectroscopy,0.5244572162628174
+https://openalex.org/W2464165275,https://openalex.org/C42360764,Chemical engineering,0.4622369408607483
+https://openalex.org/W2464165275,https://openalex.org/C171250308,Nanotechnology,0.44101062417030334
+https://openalex.org/W2464165275,https://openalex.org/C2779845233,Photocurrent,0.42809587717056274
+https://openalex.org/W1979935071,https://openalex.org/C66938386,Structural engineering,0.793632984161377
+https://openalex.org/W1979935071,https://openalex.org/C173534245,Truss,0.7480970025062561
+https://openalex.org/W1979935071,https://openalex.org/C58396970,Cracking,0.7170153856277466
+https://openalex.org/W1979935071,https://openalex.org/C113740112,Slab,0.7108669281005859
+https://openalex.org/W1979935071,https://openalex.org/C194147245,Chord (peer-to-peer),0.6305869817733765
+https://openalex.org/W1979935071,https://openalex.org/C104779481,Composite number,0.629824161529541
+https://openalex.org/W1979935071,https://openalex.org/C110245778,Serviceability (structure),0.6145195960998535
+https://openalex.org/W1979935071,https://openalex.org/C192562407,Materials science,0.6089181900024414
+https://openalex.org/W1979935071,https://openalex.org/C2779372316,Stiffness,0.5764492750167847
+https://openalex.org/W1979935071,https://openalex.org/C2781355719,Deflection (physics),0.5749965906143188
+https://openalex.org/W2062977508,https://openalex.org/C137610916,Gumbel distribution,0.7682927846908569
+https://openalex.org/W2062977508,https://openalex.org/C188721877,Bar (unit),0.6272633671760559
+https://openalex.org/W2062977508,https://openalex.org/C66938386,Structural engineering,0.41261476278305054
+https://openalex.org/W2062977508,https://openalex.org/C33923547,Mathematics,0.40066349506378174
+https://openalex.org/W2062977508,https://openalex.org/C127413603,Engineering,0.3273826241493225
+https://openalex.org/W2062977508,https://openalex.org/C105795698,Statistics,0.23130294680595398
+https://openalex.org/W2062977508,https://openalex.org/C121332964,Physics,0.20160791277885437
+https://openalex.org/W2062977508,https://openalex.org/C147581598,Extreme value theory,0.1048007607460022
+https://openalex.org/W2062977508,https://openalex.org/C153294291,Meteorology,0.04876875877380371
+https://openalex.org/W2345336453,https://openalex.org/C66938386,Structural engineering,0.6852231621742249
+https://openalex.org/W2345336453,https://openalex.org/C67203356,Reinforcement,0.6151957511901855
+https://openalex.org/W2345336453,https://openalex.org/C192562407,Materials science,0.5835874080657959
+https://openalex.org/W2345336453,https://openalex.org/C100776233,Bridge (graph theory),0.5807263851165771
+https://openalex.org/W2345336453,https://openalex.org/C159985019,Composite material,0.4292074143886566
+https://openalex.org/W2345336453,https://openalex.org/C127413603,Engineering,0.32592064142227173
+https://openalex.org/W2345336453,https://openalex.org/C71924100,Medicine,0.0
+https://openalex.org/W2345336453,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W3175508817,https://openalex.org/C49937458,Probabilistic logic,0.7688247561454773
+https://openalex.org/W3175508817,https://openalex.org/C34727166,Cholesky decomposition,0.7415086030960083
+https://openalex.org/W3175508817,https://openalex.org/C66938386,Structural engineering,0.6001031994819641
+https://openalex.org/W3175508817,https://openalex.org/C196316656,Girder,0.5688791871070862
+https://openalex.org/W3175508817,https://openalex.org/C114289077,Statistical model,0.5504804253578186
+https://openalex.org/W3175508817,https://openalex.org/C24404364,Probabilistic analysis of algorithms,0.5424221158027649
+https://openalex.org/W3175508817,https://openalex.org/C88282795,Structural system,0.45663905143737793
+https://openalex.org/W3175508817,https://openalex.org/C2778755073,Scale (ratio),0.4399362802505493
+https://openalex.org/W3175508817,https://openalex.org/C2776247918,Structural health monitoring,0.43277961015701294
+https://openalex.org/W3175508817,https://openalex.org/C127413603,Engineering,0.4324774146080017
+https://openalex.org/W2977891894,https://openalex.org/C47519245,Metal foam,0.7456473112106323
+https://openalex.org/W2977891894,https://openalex.org/C192562407,Materials science,0.6515324115753174
+https://openalex.org/W2977891894,https://openalex.org/C149342994,Strain rate,0.5061742663383484
+https://openalex.org/W2977891894,https://openalex.org/C159985019,Composite material,0.49727776646614075
+https://openalex.org/W2977891894,https://openalex.org/C2778022156,Strain (injury),0.44342976808547974
+https://openalex.org/W2977891894,https://openalex.org/C513153333,Aluminium,0.4204232096672058
+https://openalex.org/W2977891894,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W2977891894,https://openalex.org/C71924100,Medicine,0.0
+https://openalex.org/W4362570419,https://openalex.org/C127413603,Engineering,0.726229190826416
+https://openalex.org/W4362570419,https://openalex.org/C100776233,Bridge (graph theory),0.7237933874130249
+https://openalex.org/W4362570419,https://openalex.org/C40011592,Prefabrication,0.6927237510681152
+https://openalex.org/W4362570419,https://openalex.org/C2780841897,Digital manufacturing,0.6874232292175293
+https://openalex.org/W4362570419,https://openalex.org/C136525101,Fabrication,0.684819221496582
+https://openalex.org/W4362570419,https://openalex.org/C157892014,Pier,0.5829868316650391
+https://openalex.org/W4362570419,https://openalex.org/C2778684775,Formwork,0.5311393141746521
+https://openalex.org/W4362570419,https://openalex.org/C62064638,Design for manufacturability,0.5148369669914246
+https://openalex.org/W4362570419,https://openalex.org/C199639397,Engineering drawing,0.48451489210128784
+https://openalex.org/W4362570419,https://openalex.org/C16635281,Casting,0.48253318667411804
+https://openalex.org/W2110929273,https://openalex.org/C125450124,Precast concrete,0.9003677368164062
+https://openalex.org/W2110929273,https://openalex.org/C196316656,Girder,0.8046303987503052
+https://openalex.org/W2110929273,https://openalex.org/C66938386,Structural engineering,0.7424432039260864
+https://openalex.org/W2110929273,https://openalex.org/C96035792,Shear (geology),0.6511991024017334
+https://openalex.org/W2110929273,https://openalex.org/C2780886216,Prestressed concrete,0.6011589765548706
+https://openalex.org/W2110929273,https://openalex.org/C192562407,Materials science,0.46867045760154724
+https://openalex.org/W2110929273,https://openalex.org/C113740112,Slab,0.45915690064430237
+https://openalex.org/W2110929273,https://openalex.org/C127413603,Engineering,0.36772382259368896
+https://openalex.org/W2110929273,https://openalex.org/C187320778,Geotechnical engineering,0.3380047678947449
+https://openalex.org/W2110929273,https://openalex.org/C159985019,Composite material,0.26491087675094604
+https://openalex.org/W3135102693,https://openalex.org/C100776233,Bridge (graph theory),0.6783491969108582
+https://openalex.org/W3135102693,https://openalex.org/C196316656,Girder,0.556673526763916
+https://openalex.org/W3135102693,https://openalex.org/C108729823,Stiffening,0.5367895364761353
+https://openalex.org/W3135102693,https://openalex.org/C20136886,Interoperability,0.49072253704071045
+https://openalex.org/W3135102693,https://openalex.org/C41008148,Computer science,0.48012280464172363
+https://openalex.org/W3135102693,https://openalex.org/C66938386,Structural engineering,0.4440378248691559
+https://openalex.org/W3135102693,https://openalex.org/C127413603,Engineering,0.42819860577583313
+https://openalex.org/W3135102693,https://openalex.org/C11413529,Algorithm,0.40600934624671936
+https://openalex.org/W3135102693,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W3135102693,https://openalex.org/C111919701,Operating system,0.0
+https://openalex.org/W228751379,https://openalex.org/C66862320,Building information modeling,0.7495030164718628
+https://openalex.org/W228751379,https://openalex.org/C188087704,Standardization,0.6684266328811646
+https://openalex.org/W228751379,https://openalex.org/C115837547,Computerized maintenance management system,0.5437068939208984
+https://openalex.org/W228751379,https://openalex.org/C18762648,Work (physics),0.5070657730102539
+https://openalex.org/W228751379,https://openalex.org/C21338462,Information model,0.5033718943595886
+https://openalex.org/W228751379,https://openalex.org/C127413603,Engineering,0.4845839738845825
+https://openalex.org/W228751379,https://openalex.org/C180198813,Information system,0.47159871459007263
+https://openalex.org/W228751379,https://openalex.org/C201995342,Systems engineering,0.44339659810066223
+https://openalex.org/W228751379,https://openalex.org/C107053488,Construction engineering,0.4343235194683075
+https://openalex.org/W228751379,https://openalex.org/C24090081,Preventive maintenance,0.38063305616378784
+https://openalex.org/W2327744324,https://openalex.org/C125450124,Precast concrete,0.9643163681030273
+https://openalex.org/W2327744324,https://openalex.org/C157892014,Pier,0.961022675037384
+https://openalex.org/W2327744324,https://openalex.org/C66938386,Structural engineering,0.7526842355728149
+https://openalex.org/W2327744324,https://openalex.org/C40011592,Prefabrication,0.6669614911079407
+https://openalex.org/W2327744324,https://openalex.org/C127413603,Engineering,0.5317306518554688
+https://openalex.org/W2327744324,https://openalex.org/C149007308,Earthquake shaking table,0.48698315024375916
+https://openalex.org/W2327744324,https://openalex.org/C101468663,Modular design,0.4479316771030426
+https://openalex.org/W2327744324,https://openalex.org/C104304963,Durability,0.4456527531147003
+https://openalex.org/W2327744324,https://openalex.org/C100776233,Bridge (graph theory),0.4271145761013031
+https://openalex.org/W2327744324,https://openalex.org/C104779481,Composite number,0.4265040159225464
+https://openalex.org/W4387697373,https://openalex.org/C2778249042,Grout,0.9008773565292358
+https://openalex.org/W4387697373,https://openalex.org/C20625102,Corrosion,0.8473931550979614
+https://openalex.org/W4387697373,https://openalex.org/C192562407,Materials science,0.6703773736953735
+https://openalex.org/W4387697373,https://openalex.org/C60584519,Strain gauge,0.5878053903579712
+https://openalex.org/W4387697373,https://openalex.org/C66938386,Structural engineering,0.49563753604888916
+https://openalex.org/W4387697373,https://openalex.org/C196316656,Girder,0.49187254905700684
+https://openalex.org/W4387697373,https://openalex.org/C186068551,Tension (geology),0.43043234944343567
+https://openalex.org/W4387697373,https://openalex.org/C159985019,Composite material,0.41915053129196167
+https://openalex.org/W4387697373,https://openalex.org/C187320778,Geotechnical engineering,0.3508845567703247
+https://openalex.org/W4387697373,https://openalex.org/C180016635,Compression (physics),0.22887274622917175
+https://openalex.org/W4402479942,https://openalex.org/C41008148,Computer science,0.4636010229587555
+https://openalex.org/W4405782722,https://openalex.org/C100776233,Bridge (graph theory),0.805173933506012
+https://openalex.org/W4405782722,https://openalex.org/C12725497,Baseline (sea),0.7243907451629639
+https://openalex.org/W4405782722,https://openalex.org/C2779372316,Stiffness,0.5554043650627136
+https://openalex.org/W4405782722,https://openalex.org/C66938386,Structural engineering,0.5419306755065918
+https://openalex.org/W4405782722,https://openalex.org/C127413603,Engineering,0.44467097520828247
+https://openalex.org/W4405782722,https://openalex.org/C41008148,Computer science,0.41252830624580383
+https://openalex.org/W4405782722,https://openalex.org/C127313418,Geology,0.13817673921585083
+https://openalex.org/W4405782722,https://openalex.org/C71924100,Medicine,0.1089114248752594
+https://openalex.org/W4405782722,https://openalex.org/C111368507,Oceanography,0.0
+https://openalex.org/W4405782722,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W4411158234,https://openalex.org/C100776233,Bridge (graph theory),0.7356544137001038
+https://openalex.org/W4411158234,https://openalex.org/C66938386,Structural engineering,0.6274798512458801
+https://openalex.org/W4411158234,https://openalex.org/C113740112,Slab,0.5704804062843323
+https://openalex.org/W4411158234,https://openalex.org/C70452415,Predictive maintenance,0.45242488384246826
+https://openalex.org/W4411158234,https://openalex.org/C127413603,Engineering,0.43208375573158264
+https://openalex.org/W4411158234,https://openalex.org/C41008148,Computer science,0.39189061522483826
+https://openalex.org/W4411158234,https://openalex.org/C77595967,Forensic engineering,0.3576720356941223
+https://openalex.org/W4411158234,https://openalex.org/C200601418,Reliability engineering,0.35364484786987305
+https://openalex.org/W4411158234,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W4411158234,https://openalex.org/C71924100,Medicine,0.0
+https://openalex.org/W2024675841,https://openalex.org/C125450124,Precast concrete,0.9833054542541504
+https://openalex.org/W2024675841,https://openalex.org/C66938386,Structural engineering,0.8078672885894775
+https://openalex.org/W2024675841,https://openalex.org/C58396970,Cracking,0.6287424564361572
+https://openalex.org/W2024675841,https://openalex.org/C127413603,Engineering,0.5322323441505432
+https://openalex.org/W2024675841,https://openalex.org/C196316656,Girder,0.5193842053413391
+https://openalex.org/W2024675841,https://openalex.org/C135628077,Finite element method,0.4843060076236725
+https://openalex.org/W2024675841,https://openalex.org/C96035792,Shear (geology),0.4778118431568146
+https://openalex.org/W2024675841,https://openalex.org/C110925319,Cable gland,0.47442832589149475
+https://openalex.org/W2024675841,https://openalex.org/C104779481,Composite number,0.45271337032318115
+https://openalex.org/W2024675841,https://openalex.org/C2780886216,Prestressed concrete,0.42075833678245544
+https://openalex.org/W2329229156,https://openalex.org/C67363961,Information and Communications Technology,0.5402107238769531
+https://openalex.org/W2329229156,https://openalex.org/C76155785,Telecommunications,0.43278220295906067
+https://openalex.org/W2329229156,https://openalex.org/C41008148,Computer science,0.41605710983276367
+https://openalex.org/W2329229156,https://openalex.org/C127413603,Engineering,0.39494091272354126
+https://openalex.org/W2329229156,https://openalex.org/C136764020,World Wide Web,0.18827998638153076
+https://openalex.org/W1825902449,https://openalex.org/C125450124,Precast concrete,0.9611202478408813
+https://openalex.org/W1825902449,https://openalex.org/C157892014,Pier,0.9230692386627197
+https://openalex.org/W1825902449,https://openalex.org/C66938386,Structural engineering,0.7530921101570129
+https://openalex.org/W1825902449,https://openalex.org/C178405089,Flexural strength,0.6489763855934143
+https://openalex.org/W1825902449,https://openalex.org/C104779481,Composite number,0.5508936047554016
+https://openalex.org/W1825902449,https://openalex.org/C127413603,Engineering,0.48758143186569214
+https://openalex.org/W1825902449,https://openalex.org/C112950240,Ultimate tensile strength,0.4611767530441284
+https://openalex.org/W1825902449,https://openalex.org/C149007308,Earthquake shaking table,0.4477194547653198
+https://openalex.org/W1825902449,https://openalex.org/C187320778,Geotechnical engineering,0.39643412828445435
+https://openalex.org/W1825902449,https://openalex.org/C192562407,Materials science,0.36072105169296265
+https://openalex.org/W1996343295,https://openalex.org/C125450124,Precast concrete,0.9687881469726562
+https://openalex.org/W1996343295,https://openalex.org/C66938386,Structural engineering,0.8086040019989014
+https://openalex.org/W1996343295,https://openalex.org/C2778966251,Deck,0.7023055553436279
+https://openalex.org/W1996343295,https://openalex.org/C110245778,Serviceability (structure),0.6802972555160522
+https://openalex.org/W1996343295,https://openalex.org/C2781355719,Deflection (physics),0.5275751352310181
+https://openalex.org/W1996343295,https://openalex.org/C154954056,Transverse plane,0.527209997177124
+https://openalex.org/W1996343295,https://openalex.org/C180145272,Shrinkage,0.5248441696166992
+https://openalex.org/W1996343295,https://openalex.org/C135628077,Finite element method,0.46759575605392456
+https://openalex.org/W1996343295,https://openalex.org/C127413603,Engineering,0.4333987236022949
+https://openalex.org/W1996343295,https://openalex.org/C168834538,Beam (structure),0.4310024380683899
+https://openalex.org/W2125871928,https://openalex.org/C157892014,Pier,0.952749490737915
+https://openalex.org/W2125871928,https://openalex.org/C66938386,Structural engineering,0.8312958478927612
+https://openalex.org/W2125871928,https://openalex.org/C2777905996,Bracing,0.7996178865432739
+https://openalex.org/W2125871928,https://openalex.org/C101468663,Modular design,0.6882804036140442
+https://openalex.org/W2125871928,https://openalex.org/C178405089,Flexural strength,0.6751978397369385
+https://openalex.org/W2125871928,https://openalex.org/C190538878,Eccentricity (behavior),0.6438199281692505
+https://openalex.org/W2125871928,https://openalex.org/C127413603,Engineering,0.5613799095153809
+https://openalex.org/W2125871928,https://openalex.org/C2779372316,Stiffness,0.4978017807006836
+https://openalex.org/W2125871928,https://openalex.org/C204366326,Deformation (meteorology),0.45810365676879883
+https://openalex.org/W2125871928,https://openalex.org/C100776233,Bridge (graph theory),0.450467050075531
+https://openalex.org/W4365509783,https://openalex.org/C81363708,Convolutional neural network,0.727253794670105
+https://openalex.org/W4365509783,https://openalex.org/C100776233,Bridge (graph theory),0.5806811451911926
+https://openalex.org/W4365509783,https://openalex.org/C154945302,Artificial intelligence,0.5631555318832397
+https://openalex.org/W4365509783,https://openalex.org/C41008148,Computer science,0.561451256275177
+https://openalex.org/W4365509783,https://openalex.org/C115961682,Image (mathematics),0.5439704060554504
+https://openalex.org/W4365509783,https://openalex.org/C153180895,Pattern recognition (psychology),0.4351850152015686
+https://openalex.org/W4365509783,https://openalex.org/C31972630,Computer vision,0.36952126026153564
+https://openalex.org/W4365509783,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W4365509783,https://openalex.org/C71924100,Medicine,0.0
+https://openalex.org/W2231886258,https://openalex.org/C125450124,Precast concrete,0.9842343330383301
+https://openalex.org/W2231886258,https://openalex.org/C66938386,Structural engineering,0.7149673104286194
+https://openalex.org/W2231886258,https://openalex.org/C58396970,Cracking,0.684813916683197
+https://openalex.org/W2231886258,https://openalex.org/C2776512210,Ductility (Earth science),0.6081264019012451
+https://openalex.org/W2231886258,https://openalex.org/C178405089,Flexural strength,0.5756250619888306
+https://openalex.org/W2231886258,https://openalex.org/C192562407,Materials science,0.5044597387313843
+https://openalex.org/W2231886258,https://openalex.org/C43369102,Fracture (geology),0.4853898286819458
+https://openalex.org/W2231886258,https://openalex.org/C2780886216,Prestressed concrete,0.48371437191963196
+https://openalex.org/W2231886258,https://openalex.org/C44000306,Hinge,0.47790202498435974
+https://openalex.org/W2231886258,https://openalex.org/C204366326,Deformation (meteorology),0.47488778829574585
+https://openalex.org/W2283439987,https://openalex.org/C192562407,Materials science,0.9086675047874451
+https://openalex.org/W2283439987,https://openalex.org/C156622251,Hydrothermal circulation,0.831779956817627
+https://openalex.org/W2283439987,https://openalex.org/C189942447,Microsphere,0.6741505861282349
+https://openalex.org/W2283439987,https://openalex.org/C48421929,Dye-sensitized solar cell,0.6645921468734741
+https://openalex.org/W2283439987,https://openalex.org/C2780824857,Solar cell,0.601982057094574
+https://openalex.org/W2283439987,https://openalex.org/C98045186,Process (computing),0.5235105156898499
+https://openalex.org/W2283439987,https://openalex.org/C171250308,Nanotechnology,0.5095105767250061
+https://openalex.org/W2283439987,https://openalex.org/C42360764,Chemical engineering,0.4784403145313263
+https://openalex.org/W2283439987,https://openalex.org/C2776871784,Hydrothermal synthesis,0.47439244389533997
+https://openalex.org/W2283439987,https://openalex.org/C21880701,Process engineering,0.3246229290962219
+https://openalex.org/W2342448914,https://openalex.org/C125450124,Precast concrete,0.8790853023529053
+https://openalex.org/W2342448914,https://openalex.org/C66938386,Structural engineering,0.8115822076797485
+https://openalex.org/W2342448914,https://openalex.org/C58396970,Cracking,0.7473138570785522
+https://openalex.org/W2342448914,https://openalex.org/C113740112,Slab,0.6926876306533813
+https://openalex.org/W2342448914,https://openalex.org/C2778966251,Deck,0.662211537361145
+https://openalex.org/W2342448914,https://openalex.org/C2778684775,Formwork,0.6607854962348938
+https://openalex.org/W2342448914,https://openalex.org/C2779372316,Stiffness,0.5351266860961914
+https://openalex.org/W2342448914,https://openalex.org/C18555067,Joint (building),0.5253027081489563
+https://openalex.org/W2342448914,https://openalex.org/C196316656,Girder,0.5151728391647339
+https://openalex.org/W2342448914,https://openalex.org/C178405089,Flexural strength,0.46162062883377075
+https://openalex.org/W2403003448,https://openalex.org/C157892014,Pier,0.9596627950668335
+https://openalex.org/W2403003448,https://openalex.org/C66938386,Structural engineering,0.7890347242355347
+https://openalex.org/W2403003448,https://openalex.org/C2777905996,Bracing,0.7628973722457886
+https://openalex.org/W2403003448,https://openalex.org/C2776512210,Ductility (Earth science),0.6836228370666504
+https://openalex.org/W2403003448,https://openalex.org/C101468663,Modular design,0.6343690156936646
+https://openalex.org/W2403003448,https://openalex.org/C100776233,Bridge (graph theory),0.6125890016555786
+https://openalex.org/W2403003448,https://openalex.org/C19474535,Welding,0.5164957046508789
+https://openalex.org/W2403003448,https://openalex.org/C107551265,Displacement (psychology),0.4643206000328064
+https://openalex.org/W2403003448,https://openalex.org/C192562407,Materials science,0.40366441011428833
+https://openalex.org/W2403003448,https://openalex.org/C127413603,Engineering,0.38607853651046753
+https://openalex.org/W315873639,https://openalex.org/C125450124,Precast concrete,0.9672906398773193
+https://openalex.org/W315873639,https://openalex.org/C66938386,Structural engineering,0.8276893496513367
+https://openalex.org/W315873639,https://openalex.org/C2778966251,Deck,0.7101815342903137
+https://openalex.org/W315873639,https://openalex.org/C196316656,Girder,0.6372179985046387
+https://openalex.org/W315873639,https://openalex.org/C96035792,Shear (geology),0.5595450401306152
+https://openalex.org/W315873639,https://openalex.org/C67203356,Reinforcement,0.5208290815353394
+https://openalex.org/W315873639,https://openalex.org/C127413603,Engineering,0.4929022789001465
+https://openalex.org/W315873639,https://openalex.org/C187320778,Geotechnical engineering,0.47115790843963623
+https://openalex.org/W315873639,https://openalex.org/C2992260121,Bridge deck,0.4435754716396332
+https://openalex.org/W315873639,https://openalex.org/C192562407,Materials science,0.28672540187835693
+https://openalex.org/W2493836904,https://openalex.org/C125450124,Precast concrete,0.9450080394744873
+https://openalex.org/W2493836904,https://openalex.org/C77595967,Forensic engineering,0.5740445256233215
+https://openalex.org/W2493836904,https://openalex.org/C66938386,Structural engineering,0.4493258595466614
+https://openalex.org/W2493836904,https://openalex.org/C104779481,Composite number,0.41976362466812134
+https://openalex.org/W2493836904,https://openalex.org/C127413603,Engineering,0.4072040319442749
+https://openalex.org/W2493836904,https://openalex.org/C192562407,Materials science,0.27457815408706665
+https://openalex.org/W2493836904,https://openalex.org/C159985019,Composite material,0.2055673897266388
+https://openalex.org/W2690410595,https://openalex.org/C91649852,Constructability,0.9747137427330017
+https://openalex.org/W2690410595,https://openalex.org/C107053488,Construction engineering,0.619357705116272
+https://openalex.org/W2690410595,https://openalex.org/C100776233,Bridge (graph theory),0.601651132106781
+https://openalex.org/W2690410595,https://openalex.org/C34972735,Engineering design process,0.5478690266609192
+https://openalex.org/W2690410595,https://openalex.org/C127413603,Engineering,0.5424680113792419
+https://openalex.org/W2690410595,https://openalex.org/C98045186,Process (computing),0.4616028666496277
+https://openalex.org/W2690410595,https://openalex.org/C147176958,Civil engineering,0.43151727318763733
+https://openalex.org/W2690410595,https://openalex.org/C170154142,Architectural engineering,0.3969958424568176
+https://openalex.org/W2690410595,https://openalex.org/C66938386,Structural engineering,0.3545590043067932
+https://openalex.org/W2690410595,https://openalex.org/C41008148,Computer science,0.3311123847961426
+https://openalex.org/W2001960194,https://openalex.org/C110245778,Serviceability (structure),0.9005577564239502
+https://openalex.org/W2001960194,https://openalex.org/C66938386,Structural engineering,0.8428024053573608
+https://openalex.org/W2001960194,https://openalex.org/C125450124,Precast concrete,0.748249351978302
+https://openalex.org/W2001960194,https://openalex.org/C58396970,Cracking,0.7098748683929443
+https://openalex.org/W2001960194,https://openalex.org/C196316656,Girder,0.6235185861587524
+https://openalex.org/W2001960194,https://openalex.org/C113740112,Slab,0.5491483807563782
+https://openalex.org/W2001960194,https://openalex.org/C2779372316,Stiffness,0.4907759130001068
+https://openalex.org/W2001960194,https://openalex.org/C189928594,Box girder,0.47469040751457214
+https://openalex.org/W2001960194,https://openalex.org/C2780886216,Prestressed concrete,0.4628064036369324
+https://openalex.org/W2001960194,https://openalex.org/C108729823,Stiffening,0.45857173204421997
+https://openalex.org/W2610278485,https://openalex.org/C125450124,Precast concrete,0.9291154742240906
+https://openalex.org/W2610278485,https://openalex.org/C178405089,Flexural strength,0.7544361352920532
+https://openalex.org/W2610278485,https://openalex.org/C192562407,Materials science,0.6849631071090698
+https://openalex.org/W2610278485,https://openalex.org/C66938386,Structural engineering,0.6176207065582275
+https://openalex.org/W2610278485,https://openalex.org/C2776512210,Ductility (Earth science),0.5053420662879944
+https://openalex.org/W2610278485,https://openalex.org/C58396970,Cracking,0.49422648549079895
+https://openalex.org/W2610278485,https://openalex.org/C159985019,Composite material,0.4872407019138336
+https://openalex.org/W2610278485,https://openalex.org/C2779666059,Cementitious,0.4768489599227905
+https://openalex.org/W2610278485,https://openalex.org/C2779372316,Stiffness,0.4542470872402191
+https://openalex.org/W2610278485,https://openalex.org/C67203356,Reinforcement,0.42547374963760376
+https://openalex.org/W2005934948,https://openalex.org/C125450124,Precast concrete,0.9383351802825928
+https://openalex.org/W2005934948,https://openalex.org/C66938386,Structural engineering,0.7461691498756409
+https://openalex.org/W2005934948,https://openalex.org/C96035792,Shear (geology),0.6780401468276978
+https://openalex.org/W2005934948,https://openalex.org/C113740112,Slab,0.5325132012367249
+https://openalex.org/W2005934948,https://openalex.org/C127893833,Shear strength (soil),0.49514856934547424
+https://openalex.org/W2005934948,https://openalex.org/C130767629,Mortar,0.47088393568992615
+https://openalex.org/W2005934948,https://openalex.org/C187320778,Geotechnical engineering,0.45682528614997864
+https://openalex.org/W2005934948,https://openalex.org/C41151612,Direct shear test,0.4534282386302948
+https://openalex.org/W2005934948,https://openalex.org/C2778966251,Deck,0.420842707157135
+https://openalex.org/W2005934948,https://openalex.org/C127413603,Engineering,0.3891075849533081
+https://openalex.org/W3145216051,https://openalex.org/C20625102,Corrosion,0.9086407423019409
+https://openalex.org/W3145216051,https://openalex.org/C168834538,Beam (structure),0.7278855443000793
+https://openalex.org/W3145216051,https://openalex.org/C192562407,Materials science,0.6746590733528137
+https://openalex.org/W3145216051,https://openalex.org/C178405089,Flexural strength,0.5727414488792419
+https://openalex.org/W3145216051,https://openalex.org/C66938386,Structural engineering,0.5063666105270386
+https://openalex.org/W3145216051,https://openalex.org/C123453687,Strength reduction,0.4605962038040161
+https://openalex.org/W3145216051,https://openalex.org/C2780886216,Prestressed concrete,0.4373754560947418
+https://openalex.org/W3145216051,https://openalex.org/C191897082,Metallurgy,0.391693115234375
+https://openalex.org/W3145216051,https://openalex.org/C159985019,Composite material,0.3798248767852783
+https://openalex.org/W3145216051,https://openalex.org/C127413603,Engineering,0.15216222405433655
+https://openalex.org/W4391176516,https://openalex.org/C107053488,Construction engineering,0.41954484581947327
+https://openalex.org/W4391176516,https://openalex.org/C127413603,Engineering,0.35042595863342285
+https://openalex.org/W4391176516,https://openalex.org/C170154142,Architectural engineering,0.3411213159561157
+https://openalex.org/W4391176516,https://openalex.org/C144133560,Business,0.32132357358932495
+https://openalex.org/W2500623864,https://openalex.org/C192562407,Materials science,0.662604808807373
+https://openalex.org/W2500623864,https://openalex.org/C66938386,Structural engineering,0.43238356709480286
+https://openalex.org/W2500623864,https://openalex.org/C2985130431,Cryogenic temperature,0.4219849109649658
+https://openalex.org/W2500623864,https://openalex.org/C159985019,Composite material,0.4194268584251404
+https://openalex.org/W2500623864,https://openalex.org/C77595967,Forensic engineering,0.34796541929244995
+https://openalex.org/W2500623864,https://openalex.org/C127413603,Engineering,0.2631925344467163
+https://openalex.org/W4412813923,https://openalex.org/C100776233,Bridge (graph theory),0.8683685064315796
+https://openalex.org/W4412813923,https://openalex.org/C41008148,Computer science,0.5544131994247437
+https://openalex.org/W4412813923,https://openalex.org/C2780378061,Service (business),0.4587656855583191
+https://openalex.org/W4412813923,https://openalex.org/C154945302,Artificial intelligence,0.4323861300945282
+https://openalex.org/W4412813923,https://openalex.org/C119857082,Machine learning,0.40779048204421997
+https://openalex.org/W4412813923,https://openalex.org/C144133560,Business,0.09150078892707825
+https://openalex.org/W4412813923,https://openalex.org/C71924100,Medicine,0.04736441373825073
+https://openalex.org/W4412813923,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W4412813923,https://openalex.org/C162853370,Marketing,0.0
+https://openalex.org/W2002395634,https://openalex.org/C135402231,Dissipation,0.7079017162322998
+https://openalex.org/W2002395634,https://openalex.org/C192562407,Materials science,0.6621791124343872
+https://openalex.org/W2002395634,https://openalex.org/C204323151,Range (aeronautics),0.6422276496887207
+https://openalex.org/W2002395634,https://openalex.org/C117251300,Parametric statistics,0.5553638935089111
+https://openalex.org/W2002395634,https://openalex.org/C47519245,Metal foam,0.5248622894287109
+https://openalex.org/W2002395634,https://openalex.org/C513153333,Aluminium,0.5137301683425903
+https://openalex.org/W2002395634,https://openalex.org/C159985019,Composite material,0.45380643010139465
+https://openalex.org/W2002395634,https://openalex.org/C135628077,Finite element method,0.45182177424430847
+https://openalex.org/W2002395634,https://openalex.org/C66938386,Structural engineering,0.42493999004364014
+https://openalex.org/W2002395634,https://openalex.org/C127413603,Engineering,0.11194777488708496
+https://openalex.org/W2031136180,https://openalex.org/C104779481,Composite number,0.7435224056243896
+https://openalex.org/W2031136180,https://openalex.org/C149007308,Earthquake shaking table,0.7296136617660522
+https://openalex.org/W2031136180,https://openalex.org/C2776512210,Ductility (Earth science),0.6766878962516785
+https://openalex.org/W2031136180,https://openalex.org/C192562407,Materials science,0.6718543767929077
+https://openalex.org/W2031136180,https://openalex.org/C66938386,Structural engineering,0.6448471546173096
+https://openalex.org/W2031136180,https://openalex.org/C2778510302,Plastic hinge,0.6320583820343018
+https://openalex.org/W2031136180,https://openalex.org/C2780551164,Column (typography),0.6090657711029053
+https://openalex.org/W2031136180,https://openalex.org/C159985019,Composite material,0.5321119427680969
+https://openalex.org/W2031136180,https://openalex.org/C135402231,Dissipation,0.46187806129455566
+https://openalex.org/W2031136180,https://openalex.org/C44000306,Hinge,0.42265915870666504
+https://openalex.org/W2623087125,https://openalex.org/C104779481,Composite number,0.7023470401763916
+https://openalex.org/W2623087125,https://openalex.org/C66938386,Structural engineering,0.5312357544898987
+https://openalex.org/W2623087125,https://openalex.org/C192562407,Materials science,0.48488911986351013
+https://openalex.org/W2623087125,https://openalex.org/C159985019,Composite material,0.48378488421440125
+https://openalex.org/W2623087125,https://openalex.org/C127413603,Engineering,0.203258216381073
+https://openalex.org/W2718221,https://openalex.org/C101468663,Modular design,0.8729884028434753
+https://openalex.org/W2718221,https://openalex.org/C100776233,Bridge (graph theory),0.8106966018676758
+https://openalex.org/W2718221,https://openalex.org/C99679407,Substructure,0.7012427449226379
+https://openalex.org/W2718221,https://openalex.org/C117251300,Parametric statistics,0.6138368844985962
+https://openalex.org/W2718221,https://openalex.org/C2777614354,Modular construction,0.5623546242713928
+https://openalex.org/W2718221,https://openalex.org/C66862320,Building information modeling,0.5520246624946594
+https://openalex.org/W2718221,https://openalex.org/C21338462,Information model,0.5166230797767639
+https://openalex.org/W2718221,https://openalex.org/C41008148,Computer science,0.5120861530303955
+https://openalex.org/W2718221,https://openalex.org/C127413603,Engineering,0.47878873348236084
+https://openalex.org/W2718221,https://openalex.org/C88482812,Modular programming,0.447458416223526
+https://openalex.org/W273835477,https://openalex.org/C66938386,Structural engineering,0.8715922832489014
+https://openalex.org/W273835477,https://openalex.org/C173534245,Truss,0.8255177736282349
+https://openalex.org/W273835477,https://openalex.org/C130367717,Diagonal,0.660438060760498
+https://openalex.org/W273835477,https://openalex.org/C18555067,Joint (building),0.6394540071487427
+https://openalex.org/W273835477,https://openalex.org/C127413603,Engineering,0.5813397765159607
+https://openalex.org/W273835477,https://openalex.org/C16995789,Limit state design,0.5724536776542664
+https://openalex.org/W273835477,https://openalex.org/C19474535,Welding,0.5292600393295288
+https://openalex.org/W273835477,https://openalex.org/C104779481,Composite number,0.5012340545654297
+https://openalex.org/W273835477,https://openalex.org/C2778753569,Span (engineering),0.4692758619785309
+https://openalex.org/W273835477,https://openalex.org/C13355873,Connection (principal bundle),0.43489110469818115
+https://openalex.org/W768043209,https://openalex.org/C125450124,Precast concrete,0.9563226699829102
+https://openalex.org/W768043209,https://openalex.org/C66938386,Structural engineering,0.8290989995002747
+https://openalex.org/W768043209,https://openalex.org/C2778966251,Deck,0.7812540531158447
+https://openalex.org/W768043209,https://openalex.org/C110245778,Serviceability (structure),0.683487594127655
+https://openalex.org/W768043209,https://openalex.org/C178405089,Flexural strength,0.6444034576416016
+https://openalex.org/W768043209,https://openalex.org/C2780886216,Prestressed concrete,0.5530534386634827
+https://openalex.org/W768043209,https://openalex.org/C2781355719,Deflection (physics),0.538513720035553
+https://openalex.org/W768043209,https://openalex.org/C58396970,Cracking,0.5333253145217896
+https://openalex.org/W768043209,https://openalex.org/C2779372316,Stiffness,0.5067854523658752
+https://openalex.org/W768043209,https://openalex.org/C2992260121,Bridge deck,0.4979422092437744
+https://openalex.org/W2040375073,https://openalex.org/C125450124,Precast concrete,0.9810279607772827
+https://openalex.org/W2040375073,https://openalex.org/C157892014,Pier,0.8808045983314514
+https://openalex.org/W2040375073,https://openalex.org/C101468663,Modular design,0.656277596950531
+https://openalex.org/W2040375073,https://openalex.org/C66938386,Structural engineering,0.6201791763305664
+https://openalex.org/W2040375073,https://openalex.org/C127413603,Engineering,0.43210574984550476
+https://openalex.org/W2040375073,https://openalex.org/C127313418,Geology,0.32680100202560425
+https://openalex.org/W2040375073,https://openalex.org/C41008148,Computer science,0.3104340434074402
+https://openalex.org/W2040375073,https://openalex.org/C199360897,Programming language,0.053808391094207764
+https://openalex.org/W2292833254,https://openalex.org/C125450124,Precast concrete,0.8347427845001221
+https://openalex.org/W2292833254,https://openalex.org/C100776233,Bridge (graph theory),0.6293177604675293
+https://openalex.org/W2292833254,https://openalex.org/C136525101,Fabrication,0.6212072372436523
+https://openalex.org/W2292833254,https://openalex.org/C26517878,Key (lock),0.5678678154945374
+https://openalex.org/W2292833254,https://openalex.org/C2777831296,Tower,0.5660117268562317
+https://openalex.org/W2292833254,https://openalex.org/C2777897806,3D modeling,0.5121888518333435
+https://openalex.org/W2292833254,https://openalex.org/C2780551164,Column (typography),0.4840549826622009
+https://openalex.org/W2292833254,https://openalex.org/C127413603,Engineering,0.48148882389068604
+https://openalex.org/W2292833254,https://openalex.org/C199639397,Engineering drawing,0.47578585147857666
+https://openalex.org/W2292833254,https://openalex.org/C157892014,Pier,0.4748261868953705
+https://openalex.org/W2335164121,https://openalex.org/C66938386,Structural engineering,0.8253916501998901
+https://openalex.org/W2335164121,https://openalex.org/C196316656,Girder,0.7735142707824707
+https://openalex.org/W2335164121,https://openalex.org/C173534245,Truss,0.7598482370376587
+https://openalex.org/W2335164121,https://openalex.org/C194147245,Chord (peer-to-peer),0.6770606637001038
+https://openalex.org/W2335164121,https://openalex.org/C2779372316,Stiffness,0.6034650206565857
+https://openalex.org/W2335164121,https://openalex.org/C192562407,Materials science,0.6022002696990967
+https://openalex.org/W2335164121,https://openalex.org/C58396970,Cracking,0.5733686089515686
+https://openalex.org/W2335164121,https://openalex.org/C113740112,Slab,0.5637086629867554
+https://openalex.org/W2335164121,https://openalex.org/C73099012,Flexural rigidity,0.5546742081642151
+https://openalex.org/W2335164121,https://openalex.org/C178405089,Flexural strength,0.540029764175415
+https://openalex.org/W4285178841,https://openalex.org/C100776233,Bridge (graph theory),0.829571008682251
+https://openalex.org/W4285178841,https://openalex.org/C62064638,Design for manufacturability,0.6429022550582886
+https://openalex.org/W4285178841,https://openalex.org/C117251300,Parametric statistics,0.6366041898727417
+https://openalex.org/W4285178841,https://openalex.org/C40011592,Prefabrication,0.596138596534729
+https://openalex.org/W4285178841,https://openalex.org/C98045186,Process (computing),0.5932116508483887
+https://openalex.org/W4285178841,https://openalex.org/C2780841897,Digital manufacturing,0.5849266052246094
+https://openalex.org/W4285178841,https://openalex.org/C66862320,Building information modeling,0.5432987213134766
+https://openalex.org/W4285178841,https://openalex.org/C127413603,Engineering,0.5398421287536621
+https://openalex.org/W4285178841,https://openalex.org/C2778370241,Parametric design,0.48223456740379333
+https://openalex.org/W4285178841,https://openalex.org/C24574437,Parametric model,0.4522765278816223
+https://openalex.org/W921268467,https://openalex.org/C125450124,Precast concrete,0.9717875719070435
+https://openalex.org/W921268467,https://openalex.org/C157892014,Pier,0.8967214226722717
+https://openalex.org/W921268467,https://openalex.org/C66938386,Structural engineering,0.8425431251525879
+https://openalex.org/W921268467,https://openalex.org/C2778510302,Plastic hinge,0.6386057138442993
+https://openalex.org/W921268467,https://openalex.org/C113740112,Slab,0.5483621954917908
+https://openalex.org/W921268467,https://openalex.org/C100776233,Bridge (graph theory),0.5315083265304565
+https://openalex.org/W921268467,https://openalex.org/C107551265,Displacement (psychology),0.5310065746307373
+https://openalex.org/W921268467,https://openalex.org/C127413603,Engineering,0.5223044753074646
+https://openalex.org/W921268467,https://openalex.org/C2780886216,Prestressed concrete,0.5206239223480225
+https://openalex.org/W921268467,https://openalex.org/C18555067,Joint (building),0.5175247192382812
+https://openalex.org/W13073047,https://openalex.org/C101468663,Modular design,0.5940428376197815
+https://openalex.org/W13073047,https://openalex.org/C117251300,Parametric statistics,0.514006495475769
+https://openalex.org/W13073047,https://openalex.org/C41008148,Computer science,0.49985527992248535
+https://openalex.org/W13073047,https://openalex.org/C127413603,Engineering,0.40932825207710266
+https://openalex.org/W13073047,https://openalex.org/C66938386,Structural engineering,0.3661106824874878
+https://openalex.org/W13073047,https://openalex.org/C199639397,Engineering drawing,0.3349052667617798
+https://openalex.org/W13073047,https://openalex.org/C33923547,Mathematics,0.15721556544303894
+https://openalex.org/W13073047,https://openalex.org/C199360897,Programming language,0.10185477137565613
+https://openalex.org/W13073047,https://openalex.org/C105795698,Statistics,0.0
+https://openalex.org/W2370417312,https://openalex.org/C100776233,Bridge (graph theory),0.6240606307983398
+https://openalex.org/W2370417312,https://openalex.org/C127413603,Engineering,0.4813890755176544
+https://openalex.org/W2370417312,https://openalex.org/C66938386,Structural engineering,0.40700191259384155
+https://openalex.org/W2370417312,https://openalex.org/C107053488,Construction engineering,0.3972739577293396
+https://openalex.org/W2370417312,https://openalex.org/C41008148,Computer science,0.38159623742103577
+https://openalex.org/W2370417312,https://openalex.org/C71924100,Medicine,0.05655407905578613
+https://openalex.org/W2370417312,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W2413080325,https://openalex.org/C125450124,Precast concrete,0.9569575786590576
+https://openalex.org/W2413080325,https://openalex.org/C157892014,Pier,0.8846478462219238
+https://openalex.org/W2413080325,https://openalex.org/C66938386,Structural engineering,0.8485618829727173
+https://openalex.org/W2413080325,https://openalex.org/C2778510302,Plastic hinge,0.6088423132896423
+https://openalex.org/W2413080325,https://openalex.org/C44000306,Hinge,0.5885076522827148
+https://openalex.org/W2413080325,https://openalex.org/C107551265,Displacement (psychology),0.5811991095542908
+https://openalex.org/W2413080325,https://openalex.org/C195065555,Curvature,0.5779669284820557
+https://openalex.org/W2413080325,https://openalex.org/C100776233,Bridge (graph theory),0.5178792476654053
+https://openalex.org/W2413080325,https://openalex.org/C127413603,Engineering,0.5093172788619995
+https://openalex.org/W2413080325,https://openalex.org/C187320778,Geotechnical engineering,0.5039395689964294
+https://openalex.org/W2483288825,https://openalex.org/C100776233,Bridge (graph theory),0.679394543170929
+https://openalex.org/W2483288825,https://openalex.org/C43214815,Reliability (semiconductor),0.6435277462005615
+https://openalex.org/W2483288825,https://openalex.org/C49937458,Probabilistic logic,0.6420823335647583
+https://openalex.org/W2483288825,https://openalex.org/C165838908,Calibration,0.6182392239570618
+https://openalex.org/W2483288825,https://openalex.org/C200601418,Reliability engineering,0.599429726600647
+https://openalex.org/W2483288825,https://openalex.org/C2776760102,Code (set theory),0.5745264887809753
+https://openalex.org/W2483288825,https://openalex.org/C41008148,Computer science,0.5418193936347961
+https://openalex.org/W2483288825,https://openalex.org/C66938386,Structural engineering,0.44351544976234436
+https://openalex.org/W2483288825,https://openalex.org/C127413603,Engineering,0.27844053506851196
+https://openalex.org/W2483288825,https://openalex.org/C199360897,Programming language,0.15939989686012268
+https://openalex.org/W2924365740,https://openalex.org/C192562407,Materials science,0.7515164017677307
+https://openalex.org/W2924365740,https://openalex.org/C206991015,Energy conversion efficiency,0.662669837474823
+https://openalex.org/W2924365740,https://openalex.org/C186187911,Nanostructure,0.6243447661399841
+https://openalex.org/W2924365740,https://openalex.org/C171250308,Nanotechnology,0.545650064945221
+https://openalex.org/W2924365740,https://openalex.org/C2779845233,Photocurrent,0.5427821278572083
+https://openalex.org/W2924365740,https://openalex.org/C155011858,Perovskite (structure),0.4523027539253235
+https://openalex.org/W2924365740,https://openalex.org/C2777889555,Rutile,0.44595998525619507
+https://openalex.org/W2924365740,https://openalex.org/C42360764,Chemical engineering,0.4273110628128052
+https://openalex.org/W2924365740,https://openalex.org/C49040817,Optoelectronics,0.3061041533946991
+https://openalex.org/W2924365740,https://openalex.org/C127413603,Engineering,0.0
+https://openalex.org/W3083522443,https://openalex.org/C125450124,Precast concrete,0.967720627784729
+https://openalex.org/W3083522443,https://openalex.org/C157892014,Pier,0.7943605184555054
+https://openalex.org/W3083522443,https://openalex.org/C100776233,Bridge (graph theory),0.6545360088348389
+https://openalex.org/W3083522443,https://openalex.org/C127413603,Engineering,0.4978930950164795
+https://openalex.org/W3083522443,https://openalex.org/C66938386,Structural engineering,0.4956289529800415
+https://openalex.org/W3083522443,https://openalex.org/C147176958,Civil engineering,0.4434869587421417
+https://openalex.org/W3083522443,https://openalex.org/C101468663,Modular design,0.4291684031486511
+https://openalex.org/W3083522443,https://openalex.org/C2988805333,Reinforced concrete,0.41457849740982056
+https://openalex.org/W3083522443,https://openalex.org/C107053488,Construction engineering,0.3434038758277893
+https://openalex.org/W3083522443,https://openalex.org/C77595967,Forensic engineering,0.33187997341156006
+https://openalex.org/W815964794,https://openalex.org/C125450124,Precast concrete,0.9306999444961548
+https://openalex.org/W815964794,https://openalex.org/C66938386,Structural engineering,0.7587908506393433
+https://openalex.org/W815964794,https://openalex.org/C2778966251,Deck,0.6240218877792358
+https://openalex.org/W815964794,https://openalex.org/C192562407,Materials science,0.6162934899330139
+https://openalex.org/W815964794,https://openalex.org/C104779481,Composite number,0.5666970610618591
+https://openalex.org/W815964794,https://openalex.org/C168834538,Beam (structure),0.5631170868873596
+https://openalex.org/W815964794,https://openalex.org/C96035792,Shear (geology),0.5503416061401367
+https://openalex.org/W815964794,https://openalex.org/C110245778,Serviceability (structure),0.5349060297012329
+https://openalex.org/W815964794,https://openalex.org/C2779372316,Stiffness,0.5283257365226746
+https://openalex.org/W815964794,https://openalex.org/C178405089,Flexural strength,0.46981361508369446
+https://openalex.org/W912544953,https://openalex.org/C125450124,Precast concrete,0.7657175660133362
+https://openalex.org/W912544953,https://openalex.org/C104779481,Composite number,0.7074538469314575
+https://openalex.org/W912544953,https://openalex.org/C66938386,Structural engineering,0.6981586217880249
+https://openalex.org/W912544953,https://openalex.org/C96035792,Shear (geology),0.6152535676956177
+https://openalex.org/W912544953,https://openalex.org/C178405089,Flexural strength,0.6047274470329285
+https://openalex.org/W912544953,https://openalex.org/C192562407,Materials science,0.5908202528953552
+https://openalex.org/W912544953,https://openalex.org/C195268267,Slip (aerodynamics),0.5260339379310608
+https://openalex.org/W912544953,https://openalex.org/C159985019,Composite material,0.4853162169456482
+https://openalex.org/W912544953,https://openalex.org/C127413603,Engineering,0.21330532431602478
+https://openalex.org/W912544953,https://openalex.org/C146978453,Aerospace engineering,0.0
+https://openalex.org/W916736151,https://openalex.org/C125450124,Precast concrete,0.9710157513618469
+https://openalex.org/W916736151,https://openalex.org/C2778249042,Grout,0.7788517475128174
+https://openalex.org/W916736151,https://openalex.org/C196316656,Girder,0.7171374559402466
+https://openalex.org/W916736151,https://openalex.org/C66938386,Structural engineering,0.6862737536430359
+https://openalex.org/W916736151,https://openalex.org/C159096172,Bond strength,0.6732789278030396
+https://openalex.org/W916736151,https://openalex.org/C127413603,Engineering,0.4654536843299866
+https://openalex.org/W916736151,https://openalex.org/C69738904,Bond,0.4539487361907959
+https://openalex.org/W916736151,https://openalex.org/C113843644,Interface (matter),0.43473711609840393
+https://openalex.org/W916736151,https://openalex.org/C192562407,Materials science,0.3572821319103241
+https://openalex.org/W916736151,https://openalex.org/C159985019,Composite material,0.2644891142845154
+https://openalex.org/W930276183,https://openalex.org/C66938386,Structural engineering,0.7539501190185547
+https://openalex.org/W930276183,https://openalex.org/C19474535,Welding,0.7031158208847046
+https://openalex.org/W930276183,https://openalex.org/C110925319,Cable gland,0.6994366645812988
+https://openalex.org/W930276183,https://openalex.org/C96035792,Shear (geology),0.6920504570007324
+https://openalex.org/W930276183,https://openalex.org/C192562407,Materials science,0.510511040687561
+https://openalex.org/W930276183,https://openalex.org/C2779372316,Stiffness,0.49687960743904114
+https://openalex.org/W930276183,https://openalex.org/C195268267,Slip (aerodynamics),0.4823981523513794
+https://openalex.org/W930276183,https://openalex.org/C127413603,Engineering,0.33628106117248535
+https://openalex.org/W930276183,https://openalex.org/C159985019,Composite material,0.2710602283477783
+https://openalex.org/W930276183,https://openalex.org/C78519656,Mechanical engineering,0.1243431568145752
+https://openalex.org/W67673658,https://openalex.org/C104779481,Composite number,0.9085710644721985
+https://openalex.org/W67673658,https://openalex.org/C2780551164,Column (typography),0.774951159954071
+https://openalex.org/W67673658,https://openalex.org/C2780791683,Action (physics),0.5942810773849487
+https://openalex.org/W67673658,https://openalex.org/C159985019,Composite material,0.4416915774345398
+https://openalex.org/W67673658,https://openalex.org/C192562407,Materials science,0.4351629912853241
+https://openalex.org/W67673658,https://openalex.org/C66938386,Structural engineering,0.33527857065200806
+https://openalex.org/W67673658,https://openalex.org/C127413603,Engineering,0.17778438329696655
+https://openalex.org/W67673658,https://openalex.org/C121332964,Physics,0.07772088050842285
+https://openalex.org/W67673658,https://openalex.org/C13355873,Connection (principal bundle),0.0
+https://openalex.org/W67673658,https://openalex.org/C62520636,Quantum mechanics,0.0
+https://openalex.org/W4394778053,https://openalex.org/C125450124,Precast concrete,0.9600092172622681
+https://openalex.org/W4394778053,https://openalex.org/C2778966251,Deck,0.7343428134918213
+https://openalex.org/W4394778053,https://openalex.org/C66938386,Structural engineering,0.6145098805427551
+https://openalex.org/W4394778053,https://openalex.org/C96035792,Shear (geology),0.577967643737793
+https://openalex.org/W4394778053,https://openalex.org/C192562407,Materials science,0.5329552292823792
+https://openalex.org/W4394778053,https://openalex.org/C187320778,Geotechnical engineering,0.518383800983429
+https://openalex.org/W4394778053,https://openalex.org/C127893833,Shear strength (soil),0.5048649907112122
+https://openalex.org/W4394778053,https://openalex.org/C30407753,Compressive strength,0.5044983625411987
+https://openalex.org/W4394778053,https://openalex.org/C130767629,Mortar,0.4633738398551941
+https://openalex.org/W4394778053,https://openalex.org/C2777232088,Bedding,0.4496977925300598
+https://openalex.org/W4230822578,https://openalex.org/C110245778,Serviceability (structure),0.9009045362472534
+https://openalex.org/W4230822578,https://openalex.org/C66938386,Structural engineering,0.8440288305282593
+https://openalex.org/W4230822578,https://openalex.org/C125450124,Precast concrete,0.7663726806640625
+https://openalex.org/W4230822578,https://openalex.org/C58396970,Cracking,0.7248704433441162
+https://openalex.org/W4230822578,https://openalex.org/C196316656,Girder,0.6205625534057617
+https://openalex.org/W4230822578,https://openalex.org/C113740112,Slab,0.5561943054199219
+https://openalex.org/W4230822578,https://openalex.org/C2779372316,Stiffness,0.4976384937763214
+https://openalex.org/W4230822578,https://openalex.org/C189928594,Box girder,0.4687868356704712
+https://openalex.org/W4230822578,https://openalex.org/C113024971,Expansion joint,0.4638512134552002
+https://openalex.org/W4230822578,https://openalex.org/C2780886216,Prestressed concrete,0.46361926198005676
+https://openalex.org/W2199166213,https://openalex.org/C196316656,Girder,0.7966181039810181
+https://openalex.org/W2199166213,https://openalex.org/C66938386,Structural engineering,0.7158344388008118
+https://openalex.org/W2199166213,https://openalex.org/C96035792,Shear (geology),0.700642466545105
+https://openalex.org/W2199166213,https://openalex.org/C192562407,Materials science,0.4718199670314789
+https://openalex.org/W2199166213,https://openalex.org/C2776096238,Slippage,0.4678066074848175
+https://openalex.org/W2199166213,https://openalex.org/C195268267,Slip (aerodynamics),0.4660440981388092
+https://openalex.org/W2199166213,https://openalex.org/C127893833,Shear strength (soil),0.42142602801322937
+https://openalex.org/W2199166213,https://openalex.org/C127413603,Engineering,0.41425955295562744
+https://openalex.org/W2199166213,https://openalex.org/C159985019,Composite material,0.33944326639175415
+https://openalex.org/W2199166213,https://openalex.org/C187320778,Geotechnical engineering,0.3224034905433655
+https://openalex.org/W2166704168,https://openalex.org/C166595027,Epoxy,0.7939993143081665
+https://openalex.org/W2166704168,https://openalex.org/C134132462,Ceramic,0.724489152431488
+https://openalex.org/W2166704168,https://openalex.org/C52192207,Capacitor,0.6261098384857178
+https://openalex.org/W2166704168,https://openalex.org/C192562407,Materials science,0.5771933197975159
+https://openalex.org/W2166704168,https://openalex.org/C133386390,Dielectric,0.45904865860939026
+https://openalex.org/W2166704168,https://openalex.org/C104779481,Composite number,0.45528730750083923
+https://openalex.org/W2166704168,https://openalex.org/C521977710,Polymer,0.4323723316192627
+https://openalex.org/W2166704168,https://openalex.org/C159985019,Composite material,0.4081871509552002
+https://openalex.org/W2166704168,https://openalex.org/C121332964,Physics,0.15852516889572144
+https://openalex.org/W2166704168,https://openalex.org/C49040817,Optoelectronics,0.1365875005722046
+https://openalex.org/W2793750085,https://openalex.org/C66862320,Building information modeling,0.7177889347076416
+https://openalex.org/W2793750085,https://openalex.org/C20136886,Interoperability,0.7120339274406433
+https://openalex.org/W2793750085,https://openalex.org/C2776505523,Plan (archaeology),0.5348355770111084
+https://openalex.org/W2793750085,https://openalex.org/C153517457,Integrated project delivery,0.5039224028587341
+https://openalex.org/W2793750085,https://openalex.org/C100776233,Bridge (graph theory),0.472381591796875
+https://openalex.org/W2793750085,https://openalex.org/C21338462,Information model,0.4677073657512665
+https://openalex.org/W2793750085,https://openalex.org/C127413603,Engineering,0.4507753849029541
+https://openalex.org/W2793750085,https://openalex.org/C201995342,Systems engineering,0.4499833583831787
+https://openalex.org/W2793750085,https://openalex.org/C41008148,Computer science,0.44644686579704285
+https://openalex.org/W2793750085,https://openalex.org/C58565012,Project planning,0.44380900263786316
+https://openalex.org/W2806899766,https://openalex.org/C66938386,Structural engineering,0.7670466899871826
+https://openalex.org/W2806899766,https://openalex.org/C125450124,Precast concrete,0.7395438551902771
+https://openalex.org/W2806899766,https://openalex.org/C19474535,Welding,0.6517274975776672
+https://openalex.org/W2806899766,https://openalex.org/C96035792,Shear (geology),0.6509649157524109
+https://openalex.org/W2806899766,https://openalex.org/C181781793,Eurocode,0.5859623551368713
+https://openalex.org/W2806899766,https://openalex.org/C113740112,Slab,0.5704790353775024
+https://openalex.org/W2806899766,https://openalex.org/C2779372316,Stiffness,0.5376464128494263
+https://openalex.org/W2806899766,https://openalex.org/C135677250,Bearing capacity,0.45011812448501587
+https://openalex.org/W2806899766,https://openalex.org/C195268267,Slip (aerodynamics),0.441182017326355
+https://openalex.org/W2806899766,https://openalex.org/C192562407,Materials science,0.4364798963069916
+https://openalex.org/W895511624,https://openalex.org/C125450124,Precast concrete,0.9074486494064331
+https://openalex.org/W895511624,https://openalex.org/C66938386,Structural engineering,0.8409671187400818
+https://openalex.org/W895511624,https://openalex.org/C110245778,Serviceability (structure),0.7089651823043823
+https://openalex.org/W895511624,https://openalex.org/C189928594,Box girder,0.6600579023361206
+https://openalex.org/W895511624,https://openalex.org/C127413603,Engineering,0.523165762424469
+https://openalex.org/W895511624,https://openalex.org/C135628077,Finite element method,0.4990274906158447
+https://openalex.org/W895511624,https://openalex.org/C18555067,Joint (building),0.4834462106227875
+https://openalex.org/W895511624,https://openalex.org/C196316656,Girder,0.45743706822395325
+https://openalex.org/W895511624,https://openalex.org/C100776233,Bridge (graph theory),0.43594443798065186
+https://openalex.org/W895511624,https://openalex.org/C181781793,Eurocode,0.4349803924560547
+https://openalex.org/W132126491,https://openalex.org/C41008148,Computer science,0.4905349612236023
+https://openalex.org/W132126491,https://openalex.org/C2780154274,Download,0.4326017200946808
+https://openalex.org/W132126491,https://openalex.org/C22212356,Transport engineering,0.42633187770843506
+https://openalex.org/W132126491,https://openalex.org/C127413603,Engineering,0.37307894229888916
+https://openalex.org/W132126491,https://openalex.org/C107053488,Construction engineering,0.3384605348110199
+https://openalex.org/W132126491,https://openalex.org/C136764020,World Wide Web,0.08573928475379944
+https://openalex.org/W1512587879,https://openalex.org/C125450124,Precast concrete,0.969887375831604
+https://openalex.org/W1512587879,https://openalex.org/C196316656,Girder,0.8278643488883972
+https://openalex.org/W1512587879,https://openalex.org/C110925319,Cable gland,0.703956663608551
+https://openalex.org/W1512587879,https://openalex.org/C66938386,Structural engineering,0.6884499788284302
+https://openalex.org/W1512587879,https://openalex.org/C96035792,Shear (geology),0.6830706596374512
+https://openalex.org/W1512587879,https://openalex.org/C187320778,Geotechnical engineering,0.517287015914917
+https://openalex.org/W1512587879,https://openalex.org/C127413603,Engineering,0.4563309848308563
+https://openalex.org/W1512587879,https://openalex.org/C195268267,Slip (aerodynamics),0.44515687227249146
+https://openalex.org/W1512587879,https://openalex.org/C127893833,Shear strength (soil),0.43404895067214966
+https://openalex.org/W1512587879,https://openalex.org/C41151612,Direct shear test,0.42765673995018005
+https://openalex.org/W2274994219,https://openalex.org/C33574316,Passivation,0.7813252806663513
+https://openalex.org/W2274994219,https://openalex.org/C126201875,Nanorod,0.737500786781311
+https://openalex.org/W2274994219,https://openalex.org/C155011858,Perovskite (structure),0.7001221179962158
+https://openalex.org/W2274994219,https://openalex.org/C192562407,Materials science,0.6683682799339294
+https://openalex.org/W2274994219,https://openalex.org/C107814960,Solid-state,0.5940929651260376
+https://openalex.org/W2274994219,https://openalex.org/C156622251,Hydrothermal circulation,0.4657519459724426
+https://openalex.org/W2274994219,https://openalex.org/C42360764,Chemical engineering,0.45437073707580566
+https://openalex.org/W2274994219,https://openalex.org/C171250308,Nanotechnology,0.412541925907135
+https://openalex.org/W2274994219,https://openalex.org/C49040817,Optoelectronics,0.40618735551834106
+https://openalex.org/W2274994219,https://openalex.org/C199289684,Mineralogy,0.3231552243232727
+https://openalex.org/W229768725,https://openalex.org/C66938386,Structural engineering,0.8375540971755981
+https://openalex.org/W229768725,https://openalex.org/C113740112,Slab,0.7832390069961548
+https://openalex.org/W229768725,https://openalex.org/C110245778,Serviceability (structure),0.7670067548751831
+https://openalex.org/W229768725,https://openalex.org/C104779481,Composite number,0.6228792071342468
+https://openalex.org/W229768725,https://openalex.org/C178405089,Flexural strength,0.6056767106056213
+https://openalex.org/W229768725,https://openalex.org/C2779372316,Stiffness,0.5439268946647644
+https://openalex.org/W229768725,https://openalex.org/C196316656,Girder,0.4955400228500366
+https://openalex.org/W229768725,https://openalex.org/C96035792,Shear (geology),0.4577961564064026
+https://openalex.org/W229768725,https://openalex.org/C127413603,Engineering,0.36027711629867554
+https://openalex.org/W229768725,https://openalex.org/C192562407,Materials science,0.3324511647224426
+https://openalex.org/W2302051538,https://openalex.org/C155011858,Perovskite (structure),0.6165634393692017
+https://openalex.org/W2302051538,https://openalex.org/C185592680,Chemistry,0.4045860171318054
+https://openalex.org/W2302051538,https://openalex.org/C192562407,Materials science,0.3997185230255127
+https://openalex.org/W2302051538,https://openalex.org/C39432304,Environmental science,0.38137727975845337
+https://openalex.org/W2302051538,https://openalex.org/C42360764,Chemical engineering,0.37194228172302246
+https://openalex.org/W2302051538,https://openalex.org/C13965031,Nuclear chemistry,0.3345952033996582
+https://openalex.org/W2302051538,https://openalex.org/C21880701,Process engineering,0.33197829127311707
+https://openalex.org/W2302051538,https://openalex.org/C127413603,Engineering,0.1885068416595459
+https://openalex.org/W230445398,https://openalex.org/C58396970,Cracking,0.7555790543556213
+https://openalex.org/W230445398,https://openalex.org/C66938386,Structural engineering,0.73409104347229
+https://openalex.org/W230445398,https://openalex.org/C192562407,Materials science,0.7040804624557495
+https://openalex.org/W230445398,https://openalex.org/C186068551,Tension (geology),0.6519609689712524
+https://openalex.org/W230445398,https://openalex.org/C108729823,Stiffening,0.6453484296798706
+https://openalex.org/W230445398,https://openalex.org/C104779481,Composite number,0.6263123750686646
+https://openalex.org/W230445398,https://openalex.org/C2779372316,Stiffness,0.5981799364089966
+https://openalex.org/W230445398,https://openalex.org/C159985019,Composite material,0.5873498916625977
+https://openalex.org/W230445398,https://openalex.org/C178405089,Flexural strength,0.5660131573677063
+https://openalex.org/W230445398,https://openalex.org/C113740112,Slab,0.5345427393913269
+https://openalex.org/W2314880587,https://openalex.org/C13355873,Connection (principal bundle),0.6354793906211853
+https://openalex.org/W2314880587,https://openalex.org/C96035792,Shear (geology),0.5173434615135193
+https://openalex.org/W2314880587,https://openalex.org/C41008148,Computer science,0.3947855234146118
+https://openalex.org/W2314880587,https://openalex.org/C66938386,Structural engineering,0.38128820061683655
+https://openalex.org/W2314880587,https://openalex.org/C192562407,Materials science,0.36642986536026
+https://openalex.org/W2314880587,https://openalex.org/C159985019,Composite material,0.2271917760372162
+https://openalex.org/W2314880587,https://openalex.org/C127413603,Engineering,0.2041143774986267
+https://openalex.org/W2316526146,https://openalex.org/C196316656,Girder,0.6499143838882446
+https://openalex.org/W2316526146,https://openalex.org/C104779481,Composite number,0.615830659866333
+https://openalex.org/W2316526146,https://openalex.org/C66938386,Structural engineering,0.4646643400192261
+https://openalex.org/W2316526146,https://openalex.org/C192562407,Materials science,0.4557679295539856
+https://openalex.org/W2316526146,https://openalex.org/C41008148,Computer science,0.3647220730781555
+https://openalex.org/W2316526146,https://openalex.org/C159985019,Composite material,0.3469657897949219
+https://openalex.org/W2316526146,https://openalex.org/C127413603,Engineering,0.20760774612426758
+https://openalex.org/W2319667585,https://openalex.org/C125450124,Precast concrete,0.8307373523712158
+https://openalex.org/W2319667585,https://openalex.org/C66938386,Structural engineering,0.7217104434967041
+https://openalex.org/W2319667585,https://openalex.org/C96035792,Shear (geology),0.5989178419113159
+https://openalex.org/W2319667585,https://openalex.org/C30407753,Compressive strength,0.5794359445571899
+https://openalex.org/W2319667585,https://openalex.org/C127893833,Shear strength (soil),0.4674556851387024
+https://openalex.org/W2319667585,https://openalex.org/C21141959,Shear stress,0.43520963191986084
+https://openalex.org/W2319667585,https://openalex.org/C127413603,Engineering,0.3573960065841675
+https://openalex.org/W2319667585,https://openalex.org/C41008148,Computer science,0.34920734167099
+https://openalex.org/W2319667585,https://openalex.org/C192562407,Materials science,0.31252896785736084
+https://openalex.org/W2319667585,https://openalex.org/C127313418,Geology,0.20763269066810608
+https://openalex.org/W2320079528,https://openalex.org/C196316656,Girder,0.5724737644195557
+https://openalex.org/W2320079528,https://openalex.org/C2780493668,Shim (computing),0.4656912088394165
+https://openalex.org/W2320079528,https://openalex.org/C147176958,Civil engineering,0.45910003781318665
+https://openalex.org/W2320079528,https://openalex.org/C191935318,China,0.4577660858631134
+https://openalex.org/W2320079528,https://openalex.org/C127413603,Engineering,0.4563489556312561
+https://openalex.org/W2320079528,https://openalex.org/C158739034,Metropolitan area,0.4101142883300781
+https://openalex.org/W2320079528,https://openalex.org/C170154142,Architectural engineering,0.3847557008266449
+https://openalex.org/W2320079528,https://openalex.org/C66938386,Structural engineering,0.37147435545921326
+https://openalex.org/W2320079528,https://openalex.org/C127313418,Geology,0.3641743063926697
+https://openalex.org/W2320079528,https://openalex.org/C166957645,Archaeology,0.1885358691215515
+https://openalex.org/W2332660335,https://openalex.org/C140205800,Carbon fibers,0.6018616557121277
+https://openalex.org/W2332660335,https://openalex.org/C117896860,Acceleration,0.5301008820533752
+https://openalex.org/W2332660335,https://openalex.org/C41008148,Computer science,0.5253630876541138
+https://openalex.org/W2332660335,https://openalex.org/C117251300,Parametric statistics,0.5218921303749084
+https://openalex.org/W2332660335,https://openalex.org/C47737302,Greenhouse gas,0.4880003035068512
+https://openalex.org/W2332660335,https://openalex.org/C2776542497,Development (topology),0.4606611132621765
+https://openalex.org/W2332660335,https://openalex.org/C11413529,Algorithm,0.3974621295928955
+https://openalex.org/W2332660335,https://openalex.org/C33923547,Mathematics,0.12190669775009155
+https://openalex.org/W2332660335,https://openalex.org/C86803240,Biology,0.0
+https://openalex.org/W2332660335,https://openalex.org/C18903297,Ecology,0.0
+https://openalex.org/W2407052613,https://openalex.org/C66938386,Structural engineering,0.862769603729248
+https://openalex.org/W2407052613,https://openalex.org/C2777905996,Bracing,0.8422906398773193
+https://openalex.org/W2407052613,https://openalex.org/C157892014,Pier,0.7934598922729492
+https://openalex.org/W2407052613,https://openalex.org/C130367717,Diagonal,0.5748684406280518
+https://openalex.org/W2407052613,https://openalex.org/C135628077,Finite element method,0.534934937953949
+https://openalex.org/W2407052613,https://openalex.org/C135402231,Dissipation,0.47108519077301025
+https://openalex.org/W2407052613,https://openalex.org/C127413603,Engineering,0.4583527147769928
+https://openalex.org/W2407052613,https://openalex.org/C100776233,Bridge (graph theory),0.43476757407188416
+https://openalex.org/W2407052613,https://openalex.org/C101468663,Modular design,0.4275134205818176
+https://openalex.org/W2407052613,https://openalex.org/C41008148,Computer science,0.26083824038505554
+https://openalex.org/W2408729892,https://openalex.org/C2779578285,Polyurethane,0.828349232673645
+https://openalex.org/W2408729892,https://openalex.org/C192562407,Materials science,0.7652003169059753
+https://openalex.org/W2408729892,https://openalex.org/C176933379,Natural rubber,0.73056960105896
+https://openalex.org/W2408729892,https://openalex.org/C159985019,Composite material,0.6967578530311584
+https://openalex.org/W2408729892,https://openalex.org/C100806243,Blowing agent,0.6217968463897705
+https://openalex.org/W2408729892,https://openalex.org/C112950240,Ultimate tensile strength,0.6015613079071045
+https://openalex.org/W2408729892,https://openalex.org/C38052585,Elastomer,0.4164550006389618
+https://openalex.org/W2472944573,https://openalex.org/C125450124,Precast concrete,0.9829354882240295
+https://openalex.org/W2472944573,https://openalex.org/C66938386,Structural engineering,0.817125141620636
+https://openalex.org/W2472944573,https://openalex.org/C123060433,Seismic loading,0.6556967496871948
+https://openalex.org/W2472944573,https://openalex.org/C117251300,Parametric statistics,0.6213993430137634
+https://openalex.org/W2472944573,https://openalex.org/C135628077,Finite element method,0.5694292187690735
+https://openalex.org/W2472944573,https://openalex.org/C157892014,Pier,0.5308170318603516
+https://openalex.org/W2472944573,https://openalex.org/C127413603,Engineering,0.5033325552940369
+https://openalex.org/W2472944573,https://openalex.org/C187320778,Geotechnical engineering,0.47851383686065674
+https://openalex.org/W2472944573,https://openalex.org/C182358397,Seismic analysis,0.4514172077178955
+https://openalex.org/W2472944573,https://openalex.org/C100776233,Bridge (graph theory),0.4415613114833832
+https://openalex.org/W2487201178,https://openalex.org/C125450124,Precast concrete,0.933056116104126
+https://openalex.org/W2487201178,https://openalex.org/C157892014,Pier,0.6503785848617554
+https://openalex.org/W2487201178,https://openalex.org/C66938386,Structural engineering,0.629530668258667
+https://openalex.org/W2487201178,https://openalex.org/C100776233,Bridge (graph theory),0.4824238717556
+https://openalex.org/W2487201178,https://openalex.org/C127413603,Engineering,0.32880699634552
+https://openalex.org/W2487201178,https://openalex.org/C71924100,Medicine,0.06870251893997192
+https://openalex.org/W2487201178,https://openalex.org/C105702510,Anatomy,0.03833076357841492
+https://openalex.org/W2489276056,https://openalex.org/C149007308,Earthquake shaking table,0.905303955078125
+https://openalex.org/W2489276056,https://openalex.org/C2779053110,Shake,0.8418868780136108
+https://openalex.org/W2489276056,https://openalex.org/C100776233,Bridge (graph theory),0.6818800568580627
+https://openalex.org/W2489276056,https://openalex.org/C66938386,Structural engineering,0.6755907535552979
+https://openalex.org/W2489276056,https://openalex.org/C2988805333,Reinforced concrete,0.542671799659729
+https://openalex.org/W2489276056,https://openalex.org/C157892014,Pier,0.5024394989013672
+https://openalex.org/W2489276056,https://openalex.org/C2988284105,Ground motion,0.4448254704475403
+https://openalex.org/W2489276056,https://openalex.org/C175551986,Fault (geology),0.4324153959751129
+https://openalex.org/W2489276056,https://openalex.org/C127313418,Geology,0.41837942600250244
+https://openalex.org/W2489276056,https://openalex.org/C187320778,Geotechnical engineering,0.3816673457622528
+https://openalex.org/W2505937157,https://openalex.org/C13355873,Connection (principal bundle),0.7979236841201782
+https://openalex.org/W2505937157,https://openalex.org/C96035792,Shear (geology),0.5228474736213684
+https://openalex.org/W2505937157,https://openalex.org/C66938386,Structural engineering,0.4730604887008667
+https://openalex.org/W2505937157,https://openalex.org/C41008148,Computer science,0.3820209801197052
+https://openalex.org/W2505937157,https://openalex.org/C127313418,Geology,0.3536762595176697
+https://openalex.org/W2505937157,https://openalex.org/C192562407,Materials science,0.2938768267631531
+https://openalex.org/W2505937157,https://openalex.org/C127413603,Engineering,0.27665984630584717
+https://openalex.org/W2505937157,https://openalex.org/C159985019,Composite material,0.1543576717376709
+https://openalex.org/W2556787336,https://openalex.org/C125450124,Precast concrete,0.9475486874580383
+https://openalex.org/W2556787336,https://openalex.org/C11312509,Arch,0.8558788299560547
+https://openalex.org/W2556787336,https://openalex.org/C91649852,Constructability,0.8399643898010254
+https://openalex.org/W2556787336,https://openalex.org/C66938386,Structural engineering,0.7215673327445984
+https://openalex.org/W2556787336,https://openalex.org/C2777918083,Mandrel,0.6514912843704224
+https://openalex.org/W2556787336,https://openalex.org/C13355873,Connection (principal bundle),0.6511421203613281
+https://openalex.org/W2556787336,https://openalex.org/C2779372316,Stiffness,0.4460219740867615
+https://openalex.org/W2556787336,https://openalex.org/C127413603,Engineering,0.4103847146034241
+https://openalex.org/W2556787336,https://openalex.org/C192562407,Materials science,0.3208300471305847
+https://openalex.org/W2556787336,https://openalex.org/C78519656,Mechanical engineering,0.20025399327278137
+https://openalex.org/W2623185379,https://openalex.org/C196316656,Girder,0.8390323519706726
+https://openalex.org/W2623185379,https://openalex.org/C20625102,Corrosion,0.7532361149787903
+https://openalex.org/W2623185379,https://openalex.org/C2780886216,Prestressed concrete,0.7497025728225708
+https://openalex.org/W2623185379,https://openalex.org/C111335779,Reduction (mathematics),0.6518142819404602
+https://openalex.org/W2623185379,https://openalex.org/C2776512210,Ductility (Earth science),0.6470739841461182
+https://openalex.org/W2623185379,https://openalex.org/C2780105995,Tendon,0.6068209409713745
+https://openalex.org/W2623185379,https://openalex.org/C66938386,Structural engineering,0.5763326287269592
+https://openalex.org/W2623185379,https://openalex.org/C192562407,Materials science,0.5408263206481934
+https://openalex.org/W2623185379,https://openalex.org/C159985019,Composite material,0.31609418988227844
+https://openalex.org/W2623185379,https://openalex.org/C127413603,Engineering,0.21594467759132385
+https://openalex.org/W2623504298,https://openalex.org/C104779481,Composite number,0.7013376355171204
+https://openalex.org/W2623504298,https://openalex.org/C192562407,Materials science,0.6270240545272827
+https://openalex.org/W2623504298,https://openalex.org/C159985019,Composite material,0.5449976921081543
+https://openalex.org/W2623504298,https://openalex.org/C66938386,Structural engineering,0.4968142807483673
+https://openalex.org/W2623504298,https://openalex.org/C127413603,Engineering,0.13603553175926208
+https://openalex.org/W2789076726,https://openalex.org/C70970002,Multiplexer,0.7858893871307373
+https://openalex.org/W2789076726,https://openalex.org/C160724564,Wavelength-division multiplexing,0.7032983899116516
+https://openalex.org/W2789076726,https://openalex.org/C49113467,Optical add-drop multiplexer,0.6076372265815735
+https://openalex.org/W2789076726,https://openalex.org/C122306262,Ring network,0.5286881327629089
+https://openalex.org/W2789076726,https://openalex.org/C101649071,Optical amplifier,0.5039073824882507
+https://openalex.org/W2789076726,https://openalex.org/C192328126,Schematic,0.5023386478424072
+https://openalex.org/W2789076726,https://openalex.org/C191172861,Upstream (networking),0.45231810212135315
+https://openalex.org/W2789076726,https://openalex.org/C41008148,Computer science,0.44429516792297363
+https://openalex.org/W2789076726,https://openalex.org/C24326235,Electronic engineering,0.37589797377586365
+https://openalex.org/W2789076726,https://openalex.org/C120665830,Optics,0.36465051770210266
+https://openalex.org/W2911067195,https://openalex.org/C125450124,Precast concrete,0.9217149019241333
+https://openalex.org/W2911067195,https://openalex.org/C100776233,Bridge (graph theory),0.6164085268974304
+https://openalex.org/W2911067195,https://openalex.org/C153715457,Augmented reality,0.5145092010498047
+https://openalex.org/W2911067195,https://openalex.org/C107053488,Construction engineering,0.4924333989620209
+https://openalex.org/W2911067195,https://openalex.org/C127413603,Engineering,0.46218574047088623
+https://openalex.org/W2911067195,https://openalex.org/C147176958,Civil engineering,0.38732296228408813
+https://openalex.org/W2911067195,https://openalex.org/C41008148,Computer science,0.3803351819515228
+https://openalex.org/W2911067195,https://openalex.org/C107457646,Human–computer interaction,0.0729459822177887
+https://openalex.org/W2911067195,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W2911067195,https://openalex.org/C71924100,Medicine,0.0
+https://openalex.org/W2941176401,https://openalex.org/C71924100,Medicine,0.9673517942428589
+https://openalex.org/W2941176401,https://openalex.org/C97467695,ANT,0.6469831466674805
+https://openalex.org/W2941176401,https://openalex.org/C143753070,Ultrasound,0.5033957362174988
+https://openalex.org/W2941176401,https://openalex.org/C126838900,Radiology,0.28125253319740295
+https://openalex.org/W2941176401,https://openalex.org/C41008148,Computer science,0.0
+https://openalex.org/W2941176401,https://openalex.org/C31258907,Computer network,0.0
+https://openalex.org/W298547597,https://openalex.org/C125450124,Precast concrete,0.9571266174316406
+https://openalex.org/W298547597,https://openalex.org/C66938386,Structural engineering,0.8145328760147095
+https://openalex.org/W298547597,https://openalex.org/C110925319,Cable gland,0.6559016704559326
+https://openalex.org/W298547597,https://openalex.org/C96035792,Shear (geology),0.6307777762413025
+https://openalex.org/W298547597,https://openalex.org/C2778966251,Deck,0.6133530139923096
+https://openalex.org/W298547597,https://openalex.org/C2779372316,Stiffness,0.527285635471344
+https://openalex.org/W298547597,https://openalex.org/C187320778,Geotechnical engineering,0.4933890402317047
+https://openalex.org/W298547597,https://openalex.org/C127413603,Engineering,0.4437694549560547
+https://openalex.org/W298547597,https://openalex.org/C2992260121,Bridge deck,0.41865187883377075
+https://openalex.org/W298547597,https://openalex.org/C196316656,Girder,0.4143560528755188
+https://openalex.org/W3000978475,https://openalex.org/C49937458,Probabilistic logic,0.6493297815322876
+https://openalex.org/W3000978475,https://openalex.org/C2778022156,Strain (injury),0.5129391551017761
+https://openalex.org/W3000978475,https://openalex.org/C192562407,Materials science,0.433645099401474
+https://openalex.org/W3000978475,https://openalex.org/C41008148,Computer science,0.33331817388534546
+https://openalex.org/W3000978475,https://openalex.org/C66938386,Structural engineering,0.3241259455680847
+https://openalex.org/W3000978475,https://openalex.org/C200601418,Reliability engineering,0.32197341322898865
+https://openalex.org/W3000978475,https://openalex.org/C127413603,Engineering,0.20326745510101318
+https://openalex.org/W3000978475,https://openalex.org/C154945302,Artificial intelligence,0.1784030795097351
+https://openalex.org/W3000978475,https://openalex.org/C71924100,Medicine,0.0
+https://openalex.org/W3000978475,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W3022616485,https://openalex.org/C125450124,Precast concrete,0.962087869644165
+https://openalex.org/W3022616485,https://openalex.org/C157892014,Pier,0.9574710130691528
+https://openalex.org/W3022616485,https://openalex.org/C66938386,Structural engineering,0.744030773639679
+https://openalex.org/W3022616485,https://openalex.org/C40011592,Prefabrication,0.6926850080490112
+https://openalex.org/W3022616485,https://openalex.org/C127413603,Engineering,0.6435424089431763
+https://openalex.org/W3022616485,https://openalex.org/C101468663,Modular design,0.48323115706443787
+https://openalex.org/W3022616485,https://openalex.org/C104304963,Durability,0.469582736492157
+https://openalex.org/W3022616485,https://openalex.org/C100776233,Bridge (graph theory),0.4515272378921509
+https://openalex.org/W3022616485,https://openalex.org/C149007308,Earthquake shaking table,0.4429793357849121
+https://openalex.org/W3022616485,https://openalex.org/C187320778,Geotechnical engineering,0.3620902895927429
+https://openalex.org/W3045678650,https://openalex.org/C21338462,Information model,0.4260258674621582
+https://openalex.org/W3045678650,https://openalex.org/C41008148,Computer science,0.40905433893203735
+https://openalex.org/W3045678650,https://openalex.org/C112930515,Risk analysis (engineering),0.3596841096878052
+https://openalex.org/W3045678650,https://openalex.org/C77595967,Forensic engineering,0.3585377335548401
+https://openalex.org/W3045678650,https://openalex.org/C127413603,Engineering,0.2844063639640808
+https://openalex.org/W3045678650,https://openalex.org/C144133560,Business,0.24329587817192078
+https://openalex.org/W3045678650,https://openalex.org/C77088390,Database,0.0
+https://openalex.org/W319728809,https://openalex.org/C178405089,Flexural strength,0.7731919288635254
+https://openalex.org/W319728809,https://openalex.org/C2779372316,Stiffness,0.7223966121673584
+https://openalex.org/W319728809,https://openalex.org/C192562407,Materials science,0.7136440277099609
+https://openalex.org/W319728809,https://openalex.org/C113740112,Slab,0.7053951621055603
+https://openalex.org/W319728809,https://openalex.org/C104779481,Composite number,0.6893950700759888
+https://openalex.org/W319728809,https://openalex.org/C168834538,Beam (structure),0.6201366782188416
+https://openalex.org/W319728809,https://openalex.org/C159985019,Composite material,0.5723066329956055
+https://openalex.org/W319728809,https://openalex.org/C66938386,Structural engineering,0.564186155796051
+https://openalex.org/W319728809,https://openalex.org/C73099012,Flexural rigidity,0.5636179447174072
+https://openalex.org/W319728809,https://openalex.org/C180145272,Shrinkage,0.5526507496833801
+https://openalex.org/W3209954970,https://openalex.org/C100776233,Bridge (graph theory),0.8359497785568237
+https://openalex.org/W3209954970,https://openalex.org/C93518851,Metadata,0.5825879573822021
+https://openalex.org/W3209954970,https://openalex.org/C105341887,Suspension (topology),0.5649057030677795
+https://openalex.org/W3209954970,https://openalex.org/C174348530,Bridging (networking),0.5257818698883057
+https://openalex.org/W3209954970,https://openalex.org/C26517878,Key (lock),0.49932265281677246
+https://openalex.org/W3209954970,https://openalex.org/C127413603,Engineering,0.49373969435691833
+https://openalex.org/W3209954970,https://openalex.org/C2779372316,Stiffness,0.48356863856315613
+https://openalex.org/W3209954970,https://openalex.org/C98045186,Process (computing),0.42487940192222595
+https://openalex.org/W3209954970,https://openalex.org/C41008148,Computer science,0.4238126873970032
+https://openalex.org/W3209954970,https://openalex.org/C107053488,Construction engineering,0.32608741521835327
+https://openalex.org/W334832556,https://openalex.org/C125450124,Precast concrete,0.9788708686828613
+https://openalex.org/W334832556,https://openalex.org/C66938386,Structural engineering,0.780833899974823
+https://openalex.org/W334832556,https://openalex.org/C2778966251,Deck,0.7352504730224609
+https://openalex.org/W334832556,https://openalex.org/C2992260121,Bridge deck,0.6433752179145813
+https://openalex.org/W334832556,https://openalex.org/C149912024,Creep,0.6383072137832642
+https://openalex.org/W334832556,https://openalex.org/C180145272,Shrinkage,0.6303476095199585
+https://openalex.org/W334832556,https://openalex.org/C100776233,Bridge (graph theory),0.5616548657417297
+https://openalex.org/W334832556,https://openalex.org/C189928594,Box girder,0.5087304711341858
+https://openalex.org/W334832556,https://openalex.org/C104779481,Composite number,0.5020005702972412
+https://openalex.org/W334832556,https://openalex.org/C154954056,Transverse plane,0.4454525113105774
+https://openalex.org/W4285140913,https://openalex.org/C100776233,Bridge (graph theory),0.8788434863090515
+https://openalex.org/W4285140913,https://openalex.org/C41008148,Computer science,0.5993942022323608
+https://openalex.org/W4285140913,https://openalex.org/C66862320,Building information modeling,0.5556657314300537
+https://openalex.org/W4285140913,https://openalex.org/C100463513,Data model (GIS),0.539929986000061
+https://openalex.org/W4285140913,https://openalex.org/C67186912,Data modeling,0.4980018138885498
+https://openalex.org/W4285140913,https://openalex.org/C21338462,Information model,0.4670829772949219
+https://openalex.org/W4285140913,https://openalex.org/C43521106,Pipeline (software),0.4360370635986328
+https://openalex.org/W4285140913,https://openalex.org/C79974875,Cloud computing,0.417211651802063
+https://openalex.org/W4285140913,https://openalex.org/C201995342,Systems engineering,0.3840295076370239
+https://openalex.org/W4285140913,https://openalex.org/C107053488,Construction engineering,0.32042163610458374
+https://openalex.org/W4312384721,https://openalex.org/C100776233,Bridge (graph theory),0.8449822664260864
+https://openalex.org/W4312384721,https://openalex.org/C2780615140,Upgrade,0.6287180185317993
+https://openalex.org/W4312384721,https://openalex.org/C66862320,Building information modeling,0.6251129508018494
+https://openalex.org/W4312384721,https://openalex.org/C2777188360,Bridge maintenance,0.5647971630096436
+https://openalex.org/W4312384721,https://openalex.org/C107053488,Construction engineering,0.4608243703842163
+https://openalex.org/W4312384721,https://openalex.org/C112930515,Risk analysis (engineering),0.45768773555755615
+https://openalex.org/W4312384721,https://openalex.org/C2780451532,Task (project management),0.43039095401763916
+https://openalex.org/W4312384721,https://openalex.org/C24090081,Preventive maintenance,0.4123057723045349
+https://openalex.org/W4312384721,https://openalex.org/C127413603,Engineering,0.40325334668159485
+https://openalex.org/W4312384721,https://openalex.org/C41008148,Computer science,0.39260879158973694
+https://openalex.org/W4386745530,https://openalex.org/C12725497,Baseline (sea),0.8118982315063477
+https://openalex.org/W4386745530,https://openalex.org/C26517878,Key (lock),0.6868161559104919
+https://openalex.org/W4386745530,https://openalex.org/C41008148,Computer science,0.4549632966518402
+https://openalex.org/W4386745530,https://openalex.org/C111919701,Operating system,0.11893013119697571
+https://openalex.org/W4386745530,https://openalex.org/C127313418,Geology,0.11325335502624512
+https://openalex.org/W4386745530,https://openalex.org/C111368507,Oceanography,0.0
+https://openalex.org/W4399765580,https://openalex.org/C41008148,Computer science,0.5397696495056152
+https://openalex.org/W4399765580,https://openalex.org/C21338462,Information model,0.49973416328430176
+https://openalex.org/W4399765580,https://openalex.org/C13736549,Industrial engineering,0.3569418787956238
+https://openalex.org/W4399765580,https://openalex.org/C11413529,Algorithm,0.34554189443588257
+https://openalex.org/W4399765580,https://openalex.org/C117671659,Manufacturing engineering,0.33212488889694214
+https://openalex.org/W4399765580,https://openalex.org/C127413603,Engineering,0.2912091612815857
+https://openalex.org/W4399765580,https://openalex.org/C115903868,Software engineering,0.24368378520011902
+https://openalex.org/W4402481207,https://openalex.org/C12725497,Baseline (sea),0.7387213110923767
+https://openalex.org/W4402481207,https://openalex.org/C100776233,Bridge (graph theory),0.7181569933891296
+https://openalex.org/W4402481207,https://openalex.org/C41008148,Computer science,0.3544315695762634
+https://openalex.org/W4402481207,https://openalex.org/C71924100,Medicine,0.13997706770896912
+https://openalex.org/W4402481207,https://openalex.org/C127313418,Geology,0.10543805360794067
+https://openalex.org/W4402481207,https://openalex.org/C126322002,Internal medicine,0.04561334848403931
+https://openalex.org/W4402481207,https://openalex.org/C111368507,Oceanography,0.0
+https://openalex.org/W4405721982,https://openalex.org/C2778684775,Formwork,0.9769196510314941
+https://openalex.org/W4405721982,https://openalex.org/C2988805333,Reinforced concrete,0.7332103252410889
+https://openalex.org/W4405721982,https://openalex.org/C66938386,Structural engineering,0.6525387763977051
+https://openalex.org/W4405721982,https://openalex.org/C168834538,Beam (structure),0.5967138409614563
+https://openalex.org/W4405721982,https://openalex.org/C192562407,Materials science,0.5574721693992615
+https://openalex.org/W4405721982,https://openalex.org/C159985019,Composite material,0.478397011756897
+https://openalex.org/W4405721982,https://openalex.org/C3019308078,3d printed,0.4154930114746094
+https://openalex.org/W4405721982,https://openalex.org/C127413603,Engineering,0.32809072732925415
+https://openalex.org/W4405721982,https://openalex.org/C136229726,Biomedical engineering,0.0
+https://openalex.org/W4406219482,https://openalex.org/C196316656,Girder,0.68440842628479
+https://openalex.org/W4406219482,https://openalex.org/C195065555,Curvature,0.5581520199775696
+https://openalex.org/W4406219482,https://openalex.org/C50644808,Artificial neural network,0.5315043330192566
+https://openalex.org/W4406219482,https://openalex.org/C2781355719,Deflection (physics),0.5169231295585632
+https://openalex.org/W4406219482,https://openalex.org/C66938386,Structural engineering,0.49073731899261475
+https://openalex.org/W4406219482,https://openalex.org/C107673813,Bayesian probability,0.48613426089286804
+https://openalex.org/W4406219482,https://openalex.org/C16910744,Test data,0.44852983951568604
+https://openalex.org/W4406219482,https://openalex.org/C2780886216,Prestressed concrete,0.4476203918457031
+https://openalex.org/W4406219482,https://openalex.org/C49937458,Probabilistic logic,0.43211162090301514
+https://openalex.org/W4406219482,https://openalex.org/C160234255,Bayesian inference,0.43202313780784607
+https://openalex.org/W4406892815,https://openalex.org/C2778684775,Formwork,0.9344021081924438
+https://openalex.org/W4406892815,https://openalex.org/C178405089,Flexural strength,0.7658895254135132
+https://openalex.org/W4406892815,https://openalex.org/C66938386,Structural engineering,0.6584700345993042
+https://openalex.org/W4406892815,https://openalex.org/C2988805333,Reinforced concrete,0.5410922169685364
+https://openalex.org/W4406892815,https://openalex.org/C192562407,Materials science,0.5387737154960632
+https://openalex.org/W4406892815,https://openalex.org/C159985019,Composite material,0.39667147397994995
+https://openalex.org/W4406892815,https://openalex.org/C187320778,Geotechnical engineering,0.3838411271572113
+https://openalex.org/W4406892815,https://openalex.org/C127413603,Engineering,0.31835395097732544
+https://openalex.org/W4407625673,https://openalex.org/C61797465,Term (time),0.7601796388626099
+https://openalex.org/W4407625673,https://openalex.org/C50644808,Artificial neural network,0.6707702279090881
+https://openalex.org/W4407625673,https://openalex.org/C107673813,Bayesian probability,0.6032712459564209
+https://openalex.org/W4407625673,https://openalex.org/C160234255,Bayesian inference,0.4480021893978119
+https://openalex.org/W4407625673,https://openalex.org/C196316656,Girder,0.4394811689853668
+https://openalex.org/W4407625673,https://openalex.org/C41008148,Computer science,0.3886481523513794
+https://openalex.org/W4407625673,https://openalex.org/C154945302,Artificial intelligence,0.33434295654296875
+https://openalex.org/W4407625673,https://openalex.org/C149782125,Econometrics,0.3341678977012634
+https://openalex.org/W4407625673,https://openalex.org/C121864883,Statistical physics,0.3287106156349182
+https://openalex.org/W4407625673,https://openalex.org/C121332964,Physics,0.28898417949676514
+https://openalex.org/W4411115753,https://openalex.org/C41008148,Computer science,0.6540158987045288
+https://openalex.org/W4411115803,https://openalex.org/C100776233,Bridge (graph theory),0.7785468697547913
+https://openalex.org/W4411115803,https://openalex.org/C41008148,Computer science,0.5299364328384399
+https://openalex.org/W4411115803,https://openalex.org/C71924100,Medicine,0.12302422523498535
+https://openalex.org/W4411115803,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W4412838813,https://openalex.org/C100776233,Bridge (graph theory),0.6762948632240295
+https://openalex.org/W4412838813,https://openalex.org/C26517878,Key (lock),0.6711957454681396
+https://openalex.org/W4412838813,https://openalex.org/C41008148,Computer science,0.384235680103302
+https://openalex.org/W4412838813,https://openalex.org/C170154142,Architectural engineering,0.3524489998817444
+https://openalex.org/W4412838813,https://openalex.org/C127413603,Engineering,0.3472275137901306
+https://openalex.org/W4412838813,https://openalex.org/C66938386,Structural engineering,0.3448740243911743
+https://openalex.org/W4412838813,https://openalex.org/C38652104,Computer security,0.03379818797111511
+https://openalex.org/W4412838813,https://openalex.org/C126322002,Internal medicine,0.0
+https://openalex.org/W4412838813,https://openalex.org/C71924100,Medicine,0.0
+https://openalex.org/W4413122845,https://openalex.org/C100776233,Bridge (graph theory),0.8562586903572083
+https://openalex.org/W4413122845,https://openalex.org/C103208741,Service life,0.5613505244255066
+https://openalex.org/W4413122845,https://openalex.org/C127413603,Engineering,0.4905170798301697
+https://openalex.org/W4413122845,https://openalex.org/C41008148,Computer science,0.45985040068626404
+https://openalex.org/W4413122845,https://openalex.org/C2780378061,Service (business),0.4566257894039154
+https://openalex.org/W4413122845,https://openalex.org/C77595967,Forensic engineering,0.3495067358016968
+https://openalex.org/W4413122845,https://openalex.org/C66938386,Structural engineering,0.3426669239997864
+https://openalex.org/W4413122845,https://openalex.org/C200601418,Reliability engineering,0.31024566292762756
+https://openalex.org/W4413122845,https://openalex.org/C71924100,Medicine,0.0
+https://openalex.org/W4413122845,https://openalex.org/C136264566,Economy,0.0
+https://openalex.org/W4413332495,https://openalex.org/C2779530757,Quality (philosophy),0.6354513168334961
+https://openalex.org/W4413332495,https://openalex.org/C2775924081,Control (management),0.6034015417098999
+https://openalex.org/W4413332495,https://openalex.org/C41008148,Computer science,0.44646596908569336
+https://openalex.org/W4413332495,https://openalex.org/C24756922,Data quality,0.4448970854282379
+https://openalex.org/W4413332495,https://openalex.org/C66938386,Structural engineering,0.32032692432403564
+https://openalex.org/W4413332495,https://openalex.org/C127413603,Engineering,0.31961703300476074
+https://openalex.org/W4413332495,https://openalex.org/C21547014,Operations management,0.2496478259563446
+https://openalex.org/W4413332495,https://openalex.org/C154945302,Artificial intelligence,0.15389865636825562
+https://openalex.org/W4413332495,https://openalex.org/C121332964,Physics,0.08424851298332214
+https://openalex.org/W4413332495,https://openalex.org/C176217482,Metric (unit),0.0
+https://openalex.org/W4413881516,https://openalex.org/C2780886216,Prestressed concrete,0.5867846012115479
+https://openalex.org/W4413881516,https://openalex.org/C77595967,Forensic engineering,0.3950626254081726
+https://openalex.org/W4413881516,https://openalex.org/C127413603,Engineering,0.32447993755340576
+https://openalex.org/W4413881516,https://openalex.org/C41008148,Computer science,0.3239661157131195
+https://openalex.org/W4413881516,https://openalex.org/C66938386,Structural engineering,0.31649982929229736
+https://openalex.org/W47649060,https://openalex.org/C13355873,Connection (principal bundle),0.5457051396369934
+https://openalex.org/W47649060,https://openalex.org/C66938386,Structural engineering,0.38864725828170776
+https://openalex.org/W47649060,https://openalex.org/C127313418,Geology,0.35044506192207336
+https://openalex.org/W47649060,https://openalex.org/C127413603,Engineering,0.3351263999938965
+https://openalex.org/W750705710,https://openalex.org/C125450124,Precast concrete,0.8737916946411133
+https://openalex.org/W750705710,https://openalex.org/C66938386,Structural engineering,0.7527923583984375
+https://openalex.org/W750705710,https://openalex.org/C96035792,Shear (geology),0.7006292343139648
+https://openalex.org/W750705710,https://openalex.org/C2779372316,Stiffness,0.6562524437904358
+https://openalex.org/W750705710,https://openalex.org/C2778966251,Deck,0.6381314992904663
+https://openalex.org/W750705710,https://openalex.org/C187320778,Geotechnical engineering,0.5365908145904541
+https://openalex.org/W750705710,https://openalex.org/C110925319,Cable gland,0.5080399513244629
+https://openalex.org/W750705710,https://openalex.org/C192562407,Materials science,0.4927716553211212
+https://openalex.org/W750705710,https://openalex.org/C41151612,Direct shear test,0.43900102376937866
+https://openalex.org/W750705710,https://openalex.org/C135628077,Finite element method,0.4143667221069336
+https://openalex.org/W787643403,https://openalex.org/C113740112,Slab,0.8924306035041809
+https://openalex.org/W787643403,https://openalex.org/C178405089,Flexural strength,0.8090512752532959
+https://openalex.org/W787643403,https://openalex.org/C104779481,Composite number,0.7406659126281738
+https://openalex.org/W787643403,https://openalex.org/C168834538,Beam (structure),0.6719870567321777
+https://openalex.org/W787643403,https://openalex.org/C2779372316,Stiffness,0.6698958873748779
+https://openalex.org/W787643403,https://openalex.org/C66938386,Structural engineering,0.665363609790802
+https://openalex.org/W787643403,https://openalex.org/C192562407,Materials science,0.5879306197166443
+https://openalex.org/W787643403,https://openalex.org/C2776512210,Ductility (Earth science),0.5447486639022827
+https://openalex.org/W787643403,https://openalex.org/C73099012,Flexural rigidity,0.5010111331939697
+https://openalex.org/W787643403,https://openalex.org/C96035792,Shear (geology),0.4982028007507324
+https://openalex.org/W800549331,https://openalex.org/C125450124,Precast concrete,0.964246392250061
+https://openalex.org/W800549331,https://openalex.org/C66938386,Structural engineering,0.7962913513183594
+https://openalex.org/W800549331,https://openalex.org/C2778966251,Deck,0.6287473440170288
+https://openalex.org/W800549331,https://openalex.org/C113740112,Slab,0.615086019039154
+https://openalex.org/W800549331,https://openalex.org/C2778753569,Span (engineering),0.5346384048461914
+https://openalex.org/W800549331,https://openalex.org/C104779481,Composite number,0.5319827795028687
+https://openalex.org/W800549331,https://openalex.org/C189928594,Box girder,0.5251203179359436
+https://openalex.org/W800549331,https://openalex.org/C100776233,Bridge (graph theory),0.5006694793701172
+https://openalex.org/W800549331,https://openalex.org/C96035792,Shear (geology),0.49909448623657227
+https://openalex.org/W800549331,https://openalex.org/C2780886216,Prestressed concrete,0.4926298260688782
+https://openalex.org/W804107133,https://openalex.org/C66938386,Structural engineering,0.819315493106842
+https://openalex.org/W804107133,https://openalex.org/C2778966251,Deck,0.6843580007553101
+https://openalex.org/W804107133,https://openalex.org/C113740112,Slab,0.6515009999275208
+https://openalex.org/W804107133,https://openalex.org/C2779372316,Stiffness,0.6313989758491516
+https://openalex.org/W804107133,https://openalex.org/C104779481,Composite number,0.6074749231338501
+https://openalex.org/W804107133,https://openalex.org/C178405089,Flexural strength,0.5969687700271606
+https://openalex.org/W804107133,https://openalex.org/C96035792,Shear (geology),0.5671927332878113
+https://openalex.org/W804107133,https://openalex.org/C196316656,Girder,0.4600858688354492
+https://openalex.org/W804107133,https://openalex.org/C127413603,Engineering,0.4293529689311981
+https://openalex.org/W804107133,https://openalex.org/C187320778,Geotechnical engineering,0.3446013331413269
+https://openalex.org/W836951016,https://openalex.org/C66938386,Structural engineering,0.7723957300186157
+https://openalex.org/W836951016,https://openalex.org/C110245778,Serviceability (structure),0.7661184072494507
+https://openalex.org/W836951016,https://openalex.org/C104779481,Composite number,0.7084369659423828
+https://openalex.org/W836951016,https://openalex.org/C16995789,Limit state design,0.6399149298667908
+https://openalex.org/W836951016,https://openalex.org/C2778966251,Deck,0.6213147640228271
+https://openalex.org/W836951016,https://openalex.org/C113740112,Slab,0.6154271364212036
+https://openalex.org/W836951016,https://openalex.org/C2779372316,Stiffness,0.5551978349685669
+https://openalex.org/W836951016,https://openalex.org/C18555067,Joint (building),0.5097822546958923
+https://openalex.org/W836951016,https://openalex.org/C192562407,Materials science,0.4309631586074829
+https://openalex.org/W836951016,https://openalex.org/C159985019,Composite material,0.37248826026916504
+https://openalex.org/W868657101,https://openalex.org/C66938386,Structural engineering,0.809586226940155
+https://openalex.org/W868657101,https://openalex.org/C110925319,Cable gland,0.7645312547683716
+https://openalex.org/W868657101,https://openalex.org/C113740112,Slab,0.7107816338539124
+https://openalex.org/W868657101,https://openalex.org/C104779481,Composite number,0.6961390972137451
+https://openalex.org/W868657101,https://openalex.org/C135628077,Finite element method,0.6930432319641113
+https://openalex.org/W868657101,https://openalex.org/C96035792,Shear (geology),0.5871961712837219
+https://openalex.org/W868657101,https://openalex.org/C2780886216,Prestressed concrete,0.5134647488594055
+https://openalex.org/W868657101,https://openalex.org/C2778753569,Span (engineering),0.49715736508369446
+https://openalex.org/W868657101,https://openalex.org/C100776233,Bridge (graph theory),0.4766952693462372
+https://openalex.org/W868657101,https://openalex.org/C168834538,Beam (structure),0.4369758367538452
+https://openalex.org/W870650459,https://openalex.org/C113740112,Slab,0.822502613067627
+https://openalex.org/W870650459,https://openalex.org/C178405089,Flexural strength,0.8071393966674805
+https://openalex.org/W870650459,https://openalex.org/C2778417280,Flange,0.6918132305145264
+https://openalex.org/W870650459,https://openalex.org/C2779372316,Stiffness,0.6700202822685242
+https://openalex.org/W870650459,https://openalex.org/C108729823,Stiffening,0.6535627841949463
+https://openalex.org/W870650459,https://openalex.org/C168834538,Beam (structure),0.6385242938995361
+https://openalex.org/W870650459,https://openalex.org/C66938386,Structural engineering,0.6352065205574036
+https://openalex.org/W870650459,https://openalex.org/C192562407,Materials science,0.630698025226593
+https://openalex.org/W870650459,https://openalex.org/C104779481,Composite number,0.6177261471748352
+https://openalex.org/W870650459,https://openalex.org/C58396970,Cracking,0.6164773106575012
+https://openalex.org/W870762527,https://openalex.org/C125450124,Precast concrete,0.9394962787628174
+https://openalex.org/W870762527,https://openalex.org/C66938386,Structural engineering,0.7774364948272705
+https://openalex.org/W870762527,https://openalex.org/C110245778,Serviceability (structure),0.6444080471992493
+https://openalex.org/W870762527,https://openalex.org/C2992260121,Bridge deck,0.6324812173843384
+https://openalex.org/W870762527,https://openalex.org/C113024971,Expansion joint,0.5670426487922668
+https://openalex.org/W870762527,https://openalex.org/C96035792,Shear (geology),0.49284863471984863
+https://openalex.org/W870762527,https://openalex.org/C154954056,Transverse plane,0.49252066016197205
+https://openalex.org/W870762527,https://openalex.org/C127413603,Engineering,0.4742359519004822
+https://openalex.org/W870762527,https://openalex.org/C2778966251,Deck,0.4633072018623352
+https://openalex.org/W870762527,https://openalex.org/C2781355719,Deflection (physics),0.4302864670753479
+https://openalex.org/W930590827,https://openalex.org/C125450124,Precast concrete,0.767106294631958
+https://openalex.org/W930590827,https://openalex.org/C113740112,Slab,0.7199098467826843
+https://openalex.org/W930590827,https://openalex.org/C66938386,Structural engineering,0.7121034860610962
+https://openalex.org/W930590827,https://openalex.org/C180145272,Shrinkage,0.6841193437576294
+https://openalex.org/W930590827,https://openalex.org/C2778966251,Deck,0.6567700505256653
+https://openalex.org/W930590827,https://openalex.org/C112950240,Ultimate tensile strength,0.64412522315979
+https://openalex.org/W930590827,https://openalex.org/C100776233,Bridge (graph theory),0.609553873538971
+https://openalex.org/W930590827,https://openalex.org/C196316656,Girder,0.6081348657608032
+https://openalex.org/W930590827,https://openalex.org/C104779481,Composite number,0.5785881280899048
+https://openalex.org/W930590827,https://openalex.org/C135628077,Finite element method,0.561210572719574

@@ -1,0 +1,16 @@
+﻿topic_id,topic_name,concept_name,score
+0,Precast & Structural Performance,Precast concrete,0.9132686172212873
+0,Precast & Structural Performance,Arch,0.8558788299560547
+0,Precast & Structural Performance,Shake,0.8418868780136108
+0,Precast & Structural Performance,Constructability,0.8394323388735453
+0,Precast & Structural Performance,Structural material,0.8132624626159668
+2,Construction Maintenance & Management,Building information modeling,0.7914631366729736
+2,Construction Maintenance & Management,Bridge (graph theory),0.7610582858324051
+2,Construction Maintenance & Management,Visual inspection,0.7354590892791748
+2,Construction Maintenance & Management,Schematic,0.6930924654006958
+2,Construction Maintenance & Management,Standardization,0.6684266328811646
+3,Advanced Materials & Manufacturing,CZTS,0.9782650470733643
+3,Advanced Materials & Manufacturing,Stannate,0.9436613917350769
+3,Advanced Materials & Manufacturing,Electrospinning,0.936554789543152
+3,Advanced Materials & Manufacturing,Depolymerization,0.9283691048622132
+3,Advanced Materials & Manufacturing,Grout,0.9008773565292358
