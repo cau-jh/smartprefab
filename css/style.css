@@ -39,3 +39,93 @@ footer {
   text-align: center;
   padding: 10px;
 }
+
+.home-images {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 12px;
+}
+
+.home-images img {
+  width: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+/* ===== Members ===== */
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  margin-top: 16px;
+}
+
+.member-card {
+  border: 1px solid #e6e6e6;
+  border-radius: 12px;
+  padding: 16px;
+  text-align: center;
+  background: #fff;
+}
+
+.member-card img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 12px;
+}
+
+.member-role {
+  font-style: italic;
+  opacity: 0.8;
+  margin: 4px 0;
+}
+
+.member-topic {
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+/* ===== Research ===== */
+.research-item {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 20px;
+  align-items: center;
+  margin: 32px 0;
+}
+
+/* Placeholder for future images */
+.research-placeholder {
+  width: 100%;
+  max-width: 240px;
+  height: 160px;
+  border: 2px dashed #ccc;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #888;
+  font-size: 14px;
+  background-color: #fafafa;
+}
+
+.research-text h2 {
+  margin: 0 0 8px 0;
+}
+
+.research-text p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+@media (max-width: 800px) {
+  .research-item {
+    grid-template-columns: 1fr;
+  }
+
+  .research-placeholder {
+    max-width: 100%;
+  }
+}

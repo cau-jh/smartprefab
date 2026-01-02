@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>Members | CSS Lab</title>
+  <title>Members | Smart Prefab Lab</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -20,26 +20,81 @@
 </nav>
 
 <main>
-  <h2>Professor</h2>
-  <ul>
-    <li>
-      <strong>Prof. Shim, Chang-Soo</strong><br>
-      Email: csshim@cau.ac.kr<br>
-      ORCID: <a href="https://orcid.org/0000-0001-7557-9553" target="_blank">
-        0000-0001-7557-9553
-      </a>
-    </li>
-  </ul>
 
-  <h2>Students</h2>
-  <ul>
-    <li>Graduate Student A</li>
-    <li>Graduate Student B</li>
-  </ul>
+  <!-- ================= Professor ================= -->
+  <section>
+    <h2>Professor</h2>
+
+    <div class="member-grid">
+      <div class="member-card">
+        <!-- 교수님 사진 (있을 때만 사용) -->
+        <img src="images/members/shim.jpg" alt="Chang-Su Shim">
+
+        <h3>Prof. Chang-Su Shim</h3>
+        <p class="member-role">Professor</p>
+
+        <p>
+          Email:
+          <a href="mailto:csshim@cau.ac.kr">csshim@cau.ac.kr</a>
+        </p>
+
+        <p>
+          ORCID:
+          <a href="https://orcid.org/0000-0001-7557-9553" target="_blank">
+            0000-0001-7557-9553
+          </a>
+        </p>
+
+        <p class="member-topic">
+          Research Interests: Smart Construction, Prefab Structures,
+          Digital Twin, Federated AI
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= Students ================= -->
+  <section>
+    <h2>Students</h2>
+
+    <div class="member-grid">
+
+      <!-- Student 1 -->
+      <div class="member-card">
+        <img src="images/members/jihun.jpg" alt="Jihun Shin">
+
+        <h3>Jihun Shin</h3>
+        <p class="member-role">Ph.D. Student</p>
+
+        <p>
+          Email:
+          <a href="mailto:jihunshin@cau.ac.kr">jihunshin@cau.ac.kr</a>
+        </p>
+
+        <p class="member-topic">
+          Research Interests: Science of Science, Network Analysis
+        </p>
+      </div>
+
+      <!-- Student 2 -->
+      <div class="member-card">
+        <h3>TK Kim</h3>
+        <p class="member-role">Ph.D. Student</p>
+      </div>
+
+      <!-- Student 3 -->
+      <div class="member-card">
+        <h3>KY Kim</h3>
+        <p class="member-role">Ph.D. Student</p>
+      </div>
+
+    </div>
+  </section>
+
 </main>
 
 <footer>
-  <p>© 2026 CSS Lab</p>
+  <p>© Smart Prefab Lab (Chung-Ang University, ROK)</p>
 </footer>
 
 </body>
