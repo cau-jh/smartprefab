@@ -129,3 +129,29 @@ footer {
     max-width: 100%;
   }
 }
+/* ===== Publications (text only) ===== */
+.publication-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.publication-item {
+  padding: 14px 0;
+  border-bottom: 1px dashed #e0e0e0;
+}
+
+.publication-item:last-child {
+  border-bottom: none;
+}
+
+.paper-title {
+  margin: 0 0 6px 0;
+  font-size: 18px;
+}
+
+.paper-meta {
+  margin: 0;
+  font-size: 14px;
+  opacity: 0.85;
+}
